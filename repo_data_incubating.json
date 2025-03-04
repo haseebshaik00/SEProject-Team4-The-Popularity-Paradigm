@@ -1,0 +1,98 @@
+[
+    {
+        "repo": "age",
+        "stars": 3351,
+        "forks": 421,
+        "pull_requests": 30
+    },
+    {
+        "repo": "brpc",
+        "stars": 16799,
+        "forks": 4009,
+        "pull_requests": 30
+    },
+    {
+        "repo": "doris",
+        "stars": 13257,
+        "forks": 3401,
+        "pull_requests": 30
+    },
+    {
+        "repo": "eventmesh",
+        "stars": 1639,
+        "forks": 640,
+        "pull_requests": 30
+    },
+    {
+        "repo": "flagon",
+        "stars": 25,
+        "forks": 15,
+        "pull_requests": 30
+    },
+    {
+        "repo": "hop",
+        "stars": 1084,
+        "forks": 359,
+        "pull_requests": 30
+    },
+    {
+        "repo": "inlong",
+        "stars": 1418,
+        "forks": 533,
+        "pull_requests": 30
+    },
+    {
+        "repo": "kyuubi",
+        "stars": 2151,
+        "forks": 935,
+        "pull_requests": 30
+    },
+    {
+        "repo": "linkis",
+        "stars": 3343,
+        "forks": 1168,
+        "pull_requests": 30
+    },
+    {
+        "repo": "mxnet",
+        "stars": 20790,
+        "forks": 6772,
+        "pull_requests": 30
+    },
+    {
+        "repo": "nuttx",
+        "stars": 3117,
+        "forks": 1257,
+        "pull_requests": 30
+    },
+    {
+        "repo": "pegasus",
+        "stars": 2002,
+        "forks": 311,
+        "pull_requests": 30
+    },
+    {
+        "repo": "ponymail",
+        "stars": 80,
+        "forks": 31,
+        "pull_requests": 30
+    },
+    {
+        "repo": "sedona",
+        "stars": 2009,
+        "forks": 697,
+        "pull_requests": 30
+    },
+    {
+        "repo": "shenyu",
+        "stars": 8539,
+        "forks": 2974,
+        "pull_requests": 30
+    },
+    {
+        "repo": "streampipes",
+        "stars": 629,
+        "forks": 193,
+        "pull_requests": 30
+    }
+]

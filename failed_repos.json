@@ -1,0 +1,402 @@
+[
+    {
+        "repo": "apex",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/apex"
+    },
+    {
+        "repo": "apollo",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/apollo"
+    },
+    {
+        "repo": "batchee",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/batchee"
+    },
+    {
+        "repo": "beehive",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/beehive"
+    },
+    {
+        "repo": "commonsrdf",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/commonsrdf"
+    },
+    {
+        "repo": "devicemap",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/devicemap"
+    },
+    {
+        "repo": "directory",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/directory"
+    },
+    {
+        "repo": "empire",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/empire"
+    },
+    {
+        "repo": "flex",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/flex"
+    },
+    {
+        "repo": "guacamole",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/guacamole"
+    },
+    {
+        "repo": "pubscribe",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/pubscribe"
+    },
+    {
+        "repo": "httpd-cli",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/httpd-cli"
+    },
+    {
+        "repo": "ibatis",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/ibatis"
+    },
+    {
+        "repo": "ivy",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/ivy"
+    },
+    {
+        "repo": "jaxme",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/jaxme"
+    },
+    {
+        "repo": "jdo",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/jdo"
+    },
+    {
+        "repo": "log4cxx",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/log4cxx"
+    },
+    {
+        "repo": "log4cxx2",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/log4cxx2"
+    },
+    {
+        "repo": "log4net",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/log4net"
+    },
+    {
+        "repo": "log4php",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/log4php"
+    },
+    {
+        "repo": "avalon",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/avalon"
+    },
+    {
+        "repo": "mod_ftp",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/mod_ftp"
+    },
+    {
+        "repo": "muse",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/muse"
+    },
+    {
+        "repo": "mynewt",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/mynewt"
+    },
+    {
+        "repo": "commons",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/commons"
+    },
+    {
+        "repo": "olingo",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/olingo"
+    },
+    {
+        "repo": "omid",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/omid"
+    },
+    {
+        "repo": "parquet",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/parquet"
+    },
+    {
+        "repo": "rat",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/rat"
+    },
+    {
+        "repo": "river",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/river"
+    },
+    {
+        "repo": "servicecomb",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/servicecomb"
+    },
+    {
+        "repo": "tapestry",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/tapestry"
+    },
+    {
+        "repo": "tephra",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/tephra"
+    },
+    {
+        "repo": "adffaces",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/adffaces"
+    },
+    {
+        "repo": "tuscany",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/tuscany"
+    },
+    {
+        "repo": "uima",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/uima"
+    },
+    {
+        "repo": "woden",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/woden"
+    },
+    {
+        "repo": "agila",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/agila"
+    },
+    {
+        "repo": "alois",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/alois"
+    },
+    {
+        "repo": "altrmi",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/altrmi"
+    },
+    {
+        "repo": "amaterasu",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/amaterasu"
+    },
+    {
+        "repo": "ariatosca",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/ariatosca"
+    },
+    {
+        "repo": "awf",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/awf"
+    },
+    {
+        "repo": "axion",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/axion"
+    },
+    {
+        "repo": "bluesky",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/bluesky"
+    },
+    {
+        "repo": "blur",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/blur"
+    },
+    {
+        "repo": "cmda",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/cmda"
+    },
+    {
+        "repo": "composer",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/composer"
+    },
+    {
+        "repo": "concerted",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/concerted"
+    },
+    {
+        "repo": "corinthia",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/corinthia"
+    },
+    {
+        "repo": "cotton",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/cotton"
+    },
+    {
+        "repo": "depot",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/depot"
+    },
+    {
+        "repo": "droids",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/droids"
+    },
+    {
+        "repo": "edgent",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/edgent"
+    },
+    {
+        "repo": "gearpump",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/gearpump"
+    },
+    {
+        "repo": "gossip",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/gossip"
+    },
+    {
+        "repo": "graffito",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/graffito"
+    },
+    {
+        "repo": "hdt",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/hdt"
+    },
+    {
+        "repo": "heraldry",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/heraldry"
+    },
+    {
+        "repo": "hise",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/hise"
+    },
+    {
+        "repo": "horn",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/horn"
+    },
+    {
+        "repo": "htrace",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/htrace"
+    },
+    {
+        "repo": "imperius",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/imperius"
+    },
+    {
+        "repo": "iota",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/iota"
+    },
+    {
+        "repo": "juice",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/juice"
+    },
+    {
+        "repo": "kabuki",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/kabuki"
+    },
+    {
+        "repo": "kato",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/kato"
+    },
+    {
+        "repo": "kitty",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/kitty"
+    },
+    {
+        "repo": "lokahi",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/lokahi"
+    },
+    {
+        "repo": "lucene4c",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/lucene4c"
+    },
+    {
+        "repo": "mrql",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/mrql"
+    },
+    {
+        "repo": "myriad",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/myriad"
+    },
+    {
+        "repo": "nmaven",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/nmaven"
+    },
+    {
+        "repo": "odf",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/odf"
+    },
+    {
+        "repo": "olio",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/olio"
+    },
+    {
+        "repo": "openaz",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/openaz"
+    },
+    {
+        "repo": "pirk",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/pirk"
+    },
+    {
+        "repo": "provisionr",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/provisionr"
+    },
+    {
+        "repo": "quickstep",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/quickstep"
+    },
+    {
+        "repo": "rcf",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/rcf"
+    },
+    {
+        "repo": "ripple",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/ripple"
+    },
+    {
+        "repo": "s2graph",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/s2graph"
+    },
+    {
+        "repo": "s4",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/s4"
+    },
+    {
+        "repo": "samoa",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/samoa"
+    },
+    {
+        "repo": "slider",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/slider"
+    },
+    {
+        "repo": "socialsite",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/socialsite"
+    },
+    {
+        "repo": "stonehenge",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/stonehenge"
+    },
+    {
+        "repo": "tamaya",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/tamaya"
+    },
+    {
+        "repo": "taverna",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/taverna"
+    },
+    {
+        "repo": "triplesoup",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/triplesoup"
+    },
+    {
+        "repo": "tsik",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/tsik"
+    },
+    {
+        "repo": "wadi",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/wadi"
+    },
+    {
+        "repo": "warble",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/warble"
+    },
+    {
+        "repo": "wave",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/wave"
+    },
+    {
+        "repo": "weex",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/weex"
+    },
+    {
+        "repo": "wsrp4j",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/wsrp4j"
+    },
+    {
+        "repo": "xap",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/xap"
+    },
+    {
+        "repo": "xmlbeans-cxx",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/xmlbeans-cxx"
+    },
+    {
+        "repo": "yoko",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/yoko"
+    },
+    {
+        "repo": "zeta",
+        "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/zeta"
+    }
+]
