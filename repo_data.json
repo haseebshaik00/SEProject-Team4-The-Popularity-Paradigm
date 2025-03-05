@@ -8,7 +8,7 @@
     {
         "repo": "accumulo",
         "stars": 1090,
-        "forks": 454,
+        "forks": 455,
         "pull_requests": 30
     },
     {
@@ -31,8 +31,8 @@
     },
     {
         "repo": "airflow",
-        "stars": 39003,
-        "forks": 14756,
+        "stars": 39019,
+        "forks": 14758,
         "pull_requests": 30
     },
     {
@@ -43,7 +43,7 @@
     },
     {
         "repo": "ambari",
-        "stars": 2178,
+        "stars": 2179,
         "forks": 1696,
         "pull_requests": 30
     },
@@ -91,7 +91,7 @@
     },
     {
         "repo": "beam",
-        "stars": 8030,
+        "stars": 8031,
         "forks": 4304,
         "pull_requests": 30
     },
@@ -127,7 +127,7 @@
     },
     {
         "repo": "calcite",
-        "stars": 4746,
+        "stars": 4747,
         "forks": 2411,
         "pull_requests": 30
     },
@@ -139,14 +139,14 @@
     },
     {
         "repo": "cassandra",
-        "stars": 9062,
-        "forks": 3665,
+        "stars": 9064,
+        "forks": 3664,
         "pull_requests": 30
     },
     {
         "repo": "cayenne",
         "stars": 323,
-        "forks": 134,
+        "forks": 135,
         "pull_requests": 30
     },
     {
@@ -181,7 +181,7 @@
     },
     {
         "repo": "cloudstack",
-        "stars": 2246,
+        "stars": 2247,
         "forks": 1137,
         "pull_requests": 30
     },
@@ -193,7 +193,7 @@
     },
     {
         "repo": "couchdb",
-        "stars": 6411,
+        "stars": 6413,
         "forks": 1044,
         "pull_requests": 30
     },
@@ -289,8 +289,8 @@
     },
     {
         "repo": "dubbo",
-        "stars": 40764,
-        "forks": 26489,
+        "stars": 40769,
+        "forks": 26492,
         "pull_requests": 30
     },
     {
@@ -307,7 +307,7 @@
     },
     {
         "repo": "echarts",
-        "stars": 62016,
+        "stars": 62021,
         "forks": 19699,
         "pull_requests": 30
     },
@@ -338,12 +338,12 @@
     {
         "repo": "fineract",
         "stars": 1474,
-        "forks": 1795,
+        "forks": 1797,
         "pull_requests": 30
     },
     {
         "repo": "flink",
-        "stars": 24581,
+        "stars": 24584,
         "forks": 13533,
         "pull_requests": 30
     },
@@ -361,7 +361,7 @@
     },
     {
         "repo": "freemarker",
-        "stars": 1010,
+        "stars": 1011,
         "forks": 271,
         "pull_requests": 30
     },
@@ -391,7 +391,7 @@
     },
     {
         "repo": "gobblin",
-        "stars": 2236,
+        "stars": 2237,
         "forks": 751,
         "pull_requests": 30
     },
@@ -409,7 +409,7 @@
     },
     {
         "repo": "groovy",
-        "stars": 5267,
+        "stars": 5266,
         "forks": 1898,
         "pull_requests": 30
     },
@@ -445,7 +445,7 @@
     },
     {
         "repo": "hudi",
-        "stars": 5676,
+        "stars": 5677,
         "forks": 2462,
         "pull_requests": 30
     },
@@ -457,7 +457,7 @@
     },
     {
         "repo": "ignite",
-        "stars": 4888,
+        "stars": 4889,
         "forks": 1912,
         "pull_requests": 30
     },
@@ -529,8 +529,8 @@
     },
     {
         "repo": "kafka",
-        "stars": 29569,
-        "forks": 14214,
+        "stars": 29572,
+        "forks": 14217,
         "pull_requests": 30
     },
     {
@@ -556,12 +556,6 @@
         "stars": 60,
         "forks": 94,
         "pull_requests": 30
-    },
-    {
-        "repo": "lenya",
-        "stars": 18,
-        "forks": 7,
-        "pull_requests": 10
     },
     {
         "repo": "libcloud",
@@ -614,7 +608,7 @@
     {
         "repo": "metron",
         "stars": 856,
-        "forks": 509,
+        "forks": 508,
         "pull_requests": 30
     },
     {
@@ -637,19 +631,19 @@
     },
     {
         "repo": "netbeans",
-        "stars": 2757,
+        "stars": 2758,
         "forks": 874,
         "pull_requests": 30
     },
     {
         "repo": "nifi",
-        "stars": 5132,
+        "stars": 5134,
         "forks": 2761,
         "pull_requests": 30
     },
     {
         "repo": "nutch",
-        "stars": 2980,
+        "stars": 2981,
         "forks": 1252,
         "pull_requests": 30
     },
@@ -715,7 +709,7 @@
     },
     {
         "repo": "opennlp",
-        "stars": 1477,
+        "stars": 1478,
         "forks": 461,
         "pull_requests": 30
     },
@@ -787,7 +781,7 @@
     },
     {
         "repo": "pulsar",
-        "stars": 14464,
+        "stars": 14466,
         "forks": 3618,
         "pull_requests": 30
     },
@@ -799,7 +793,7 @@
     },
     {
         "repo": "ranger",
-        "stars": 932,
+        "stars": 934,
         "forks": 1001,
         "pull_requests": 30
     },
@@ -823,8 +817,8 @@
     },
     {
         "repo": "rocketmq",
-        "stars": 21578,
-        "forks": 11786,
+        "stars": 21579,
+        "forks": 11785,
         "pull_requests": 30
     },
     {
@@ -865,7 +859,7 @@
     },
     {
         "repo": "shardingsphere",
-        "stars": 20094,
+        "stars": 20095,
         "forks": 6794,
         "pull_requests": 30
     },
@@ -895,7 +889,7 @@
     },
     {
         "repo": "skywalking",
-        "stars": 24144,
+        "stars": 24142,
         "forks": 6565,
         "pull_requests": 30
     },
@@ -908,7 +902,7 @@
     {
         "repo": "solr",
         "stars": 1317,
-        "forks": 697,
+        "forks": 698,
         "pull_requests": 30
     },
     {
@@ -919,8 +913,8 @@
     },
     {
         "repo": "spark",
-        "stars": 40655,
-        "forks": 28525,
+        "stars": 40660,
+        "forks": 28526,
         "pull_requests": 30
     },
     {
@@ -944,7 +938,7 @@
     {
         "repo": "storm",
         "stars": 6613,
-        "forks": 4077,
+        "forks": 4078,
         "pull_requests": 30
     },
     {
@@ -967,8 +961,8 @@
     },
     {
         "repo": "superset",
-        "stars": 64778,
-        "forks": 14604,
+        "stars": 64785,
+        "forks": 14608,
         "pull_requests": 30
     },
     {
@@ -980,7 +974,7 @@
     {
         "repo": "syncope",
         "stars": 278,
-        "forks": 184,
+        "forks": 185,
         "pull_requests": 30
     },
     {
@@ -992,7 +986,7 @@
     {
         "repo": "tajo",
         "stars": 134,
-        "forks": 110,
+        "forks": 111,
         "pull_requests": 30
     },
     {
@@ -1009,7 +1003,7 @@
     },
     {
         "repo": "tika",
-        "stars": 2795,
+        "stars": 2796,
         "forks": 803,
         "pull_requests": 30
     },
@@ -1045,7 +1039,7 @@
     },
     {
         "repo": "tvm",
-        "stars": 12062,
+        "stars": 12065,
         "forks": 3523,
         "pull_requests": 30
     },
@@ -1057,13 +1051,13 @@
     },
     {
         "repo": "unomi",
-        "stars": 295,
+        "stars": 296,
         "forks": 132,
         "pull_requests": 30
     },
     {
         "repo": "usergrid",
-        "stars": 991,
+        "stars": 990,
         "forks": 424,
         "pull_requests": 30
     },
@@ -1153,7 +1147,7 @@
     },
     {
         "repo": "zipkin",
-        "stars": 17134,
+        "stars": 17135,
         "forks": 3102,
         "pull_requests": 30
     }
