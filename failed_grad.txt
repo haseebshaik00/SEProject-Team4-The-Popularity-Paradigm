@@ -1,0 +1,22 @@
+[
+    {"Annotator": "https://github.com/apache/incubator-annotator"},
+    {"Bluemarlin": "https://github.com/apache/incubator-bluemarlin"},
+    {"Crail": "https://github.com/apache/incubator-crail"},
+    {"Datalab": "https://github.com/apache/incubator-datalab"},
+    {"Heron": "https://github.com/apache/incubator-heron"},
+    {"Hivemall": "https://github.com/apache/incubator-hivemall"},
+    {"Liminal": "https://github.com/apache/incubator-liminal"},
+    {"Livy": "https://github.com/apache/incubator-livy"},
+    {"Marvin": "https://github.com/apache/incubator-marvin"},
+    {"Milagro": "https://github.com/apache/incubator-milagro"},
+    {"Nemo": "https://github.com/apache/incubator-nemo"},
+    {"NLPCraft": "https://github.com/apache/incubator-nlpcraft"},
+    {"Spot": "https://github.com/apache/incubator-spot"},
+    {"Teaclave": "https://github.com/apache/incubator-teaclave"},
+    {"Toree": "https://github.com/apache/incubator-toree"},
+    {"Training": "https://github.com/apache/incubator-training"},
+    {"Tuweni": "https://github.com/apache/incubator-tuweni"},
+    {"Wayang": "https://github.com/apache/incubator-wayang"}
+]
+
+
