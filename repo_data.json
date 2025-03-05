@@ -558,12 +558,6 @@
         "pull_requests": 30
     },
     {
-        "repo": "lenya",
-        "stars": 18,
-        "forks": 7,
-        "pull_requests": 10
-    },
-    {
         "repo": "libcloud",
         "stars": 2047,
         "forks": 924,

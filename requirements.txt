@@ -4,3 +4,4 @@ drive
 matplotlib
 statsmodels
 networkx
+scikit-learn
