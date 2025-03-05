@@ -1,0 +1,1353 @@
+[
+    {
+        "repo": "abdera",
+        "stars": 18,
+        "forks": 24,
+        "pull_requests": 4,
+        "pScore": 58
+    },
+    {
+        "repo": "accumulo",
+        "stars": 1090,
+        "forks": 454,
+        "pull_requests": 30,
+        "pScore": 2444
+    },
+    {
+        "repo": "ace",
+        "stars": 27,
+        "forks": 23,
+        "pull_requests": 16,
+        "pScore": 306
+    },
+    {
+        "repo": "activemq",
+        "stars": 2343,
+        "forks": 1452,
+        "pull_requests": 30,
+        "pScore": 4695
+    },
+    {
+        "repo": "airavata",
+        "stars": 119,
+        "forks": 126,
+        "pull_requests": 30,
+        "pScore": 1145
+    },
+    {
+        "repo": "airflow",
+        "stars": 39003,
+        "forks": 14756,
+        "pull_requests": 30,
+        "pScore": 54659
+    },
+    {
+        "repo": "allura",
+        "stars": 134,
+        "forks": 35,
+        "pull_requests": 8,
+        "pScore": 233
+    },
+    {
+        "repo": "ambari",
+        "stars": 2178,
+        "forks": 1696,
+        "pull_requests": 30,
+        "pScore": 4774
+    },
+    {
+        "repo": "oltu",
+        "stars": 163,
+        "forks": 120,
+        "pull_requests": 17,
+        "pScore": 572
+    },
+    {
+        "repo": "any23",
+        "stars": 96,
+        "forks": 55,
+        "pull_requests": 30,
+        "pScore": 1051
+    },
+    {
+        "repo": "apisix",
+        "stars": 14840,
+        "forks": 2551,
+        "pull_requests": 30,
+        "pScore": 18291
+    },
+    {
+        "repo": "aries",
+        "stars": 113,
+        "forks": 158,
+        "pull_requests": 30,
+        "pScore": 1171
+    },
+    {
+        "repo": "asterixdb",
+        "stars": 287,
+        "forks": 142,
+        "pull_requests": 30,
+        "pScore": 1329
+    },
+    {
+        "repo": "atlas",
+        "stars": 1898,
+        "forks": 869,
+        "pull_requests": 30,
+        "pScore": 3667
+    },
+    {
+        "repo": "aurora",
+        "stars": 634,
+        "forks": 231,
+        "pull_requests": 30,
+        "pScore": 1765
+    },
+    {
+        "repo": "beam",
+        "stars": 8030,
+        "forks": 4304,
+        "pull_requests": 30,
+        "pScore": 13234
+    },
+    {
+        "repo": "bval",
+        "stars": 44,
+        "forks": 29,
+        "pull_requests": 30,
+        "pScore": 973
+    },
+    {
+        "repo": "bigtop",
+        "stars": 629,
+        "forks": 519,
+        "pull_requests": 30,
+        "pScore": 2048
+    },
+    {
+        "repo": "bloodhound",
+        "stars": 147,
+        "forks": 30,
+        "pull_requests": 3,
+        "pScore": 186
+    },
+    {
+        "repo": "brooklyn",
+        "stars": 139,
+        "forks": 67,
+        "pull_requests": 30,
+        "pScore": 1106
+    },
+    {
+        "repo": "buildr",
+        "stars": 140,
+        "forks": 88,
+        "pull_requests": 30,
+        "pScore": 1128
+    },
+    {
+        "repo": "calcite",
+        "stars": 4746,
+        "forks": 2411,
+        "pull_requests": 30,
+        "pScore": 8057
+    },
+    {
+        "repo": "carbondata",
+        "stars": 1435,
+        "forks": 703,
+        "pull_requests": 30,
+        "pScore": 3038
+    },
+    {
+        "repo": "cassandra",
+        "stars": 9062,
+        "forks": 3665,
+        "pull_requests": 30,
+        "pScore": 13627
+    },
+    {
+        "repo": "cayenne",
+        "stars": 323,
+        "forks": 134,
+        "pull_requests": 30,
+        "pScore": 1357
+    },
+    {
+        "repo": "celix",
+        "stars": 173,
+        "forks": 90,
+        "pull_requests": 30,
+        "pScore": 1163
+    },
+    {
+        "repo": "chemistry",
+        "stars": 7,
+        "forks": 5,
+        "pull_requests": 0,
+        "pScore": 12
+    },
+    {
+        "repo": "chukwa",
+        "stars": 84,
+        "forks": 40,
+        "pull_requests": 10,
+        "pScore": 224
+    },
+    {
+        "repo": "clerezza",
+        "stars": 36,
+        "forks": 26,
+        "pull_requests": 22,
+        "pScore": 546
+    },
+    {
+        "repo": "click",
+        "stars": 14,
+        "forks": 10,
+        "pull_requests": 0,
+        "pScore": 24
+    },
+    {
+        "repo": "cloudstack",
+        "stars": 2246,
+        "forks": 1137,
+        "pull_requests": 30,
+        "pScore": 4283
+    },
+    {
+        "repo": "cordova",
+        "stars": 652,
+        "forks": 68,
+        "pull_requests": 30,
+        "pScore": 1620
+    },
+    {
+        "repo": "couchdb",
+        "stars": 6411,
+        "forks": 1044,
+        "pull_requests": 30,
+        "pScore": 8355
+    },
+    {
+        "repo": "crunch",
+        "stars": 104,
+        "forks": 80,
+        "pull_requests": 30,
+        "pScore": 1084
+    },
+    {
+        "repo": "ctakes",
+        "stars": 59,
+        "forks": 13,
+        "pull_requests": 17,
+        "pScore": 361
+    },
+    {
+        "repo": "curator",
+        "stars": 3130,
+        "forks": 1245,
+        "pull_requests": 30,
+        "pScore": 5275
+    },
+    {
+        "repo": "cxf",
+        "stars": 874,
+        "forks": 1437,
+        "pull_requests": 30,
+        "pScore": 3211
+    },
+    {
+        "repo": "daffodil",
+        "stars": 92,
+        "forks": 73,
+        "pull_requests": 30,
+        "pScore": 1065
+    },
+    {
+        "repo": "datafu",
+        "stars": 120,
+        "forks": 66,
+        "pull_requests": 30,
+        "pScore": 1086
+    },
+    {
+        "repo": "datasketches",
+        "stars": 94,
+        "forks": 10,
+        "pull_requests": 1,
+        "pScore": 105
+    },
+    {
+        "repo": "deltacloud",
+        "stars": 72,
+        "forks": 25,
+        "pull_requests": 7,
+        "pScore": 146
+    },
+    {
+        "repo": "deltaspike",
+        "stars": 151,
+        "forks": 136,
+        "pull_requests": 30,
+        "pScore": 1187
+    },
+    {
+        "repo": "derby",
+        "stars": 352,
+        "forks": 140,
+        "pull_requests": 30,
+        "pScore": 1392
+    },
+    {
+        "repo": "directmemory",
+        "stars": 53,
+        "forks": 27,
+        "pull_requests": 19,
+        "pScore": 441
+    },
+    {
+        "repo": "bookkeeper",
+        "stars": 1919,
+        "forks": 913,
+        "pull_requests": 30,
+        "pScore": 3732
+    },
+    {
+        "repo": "dolphinscheduler",
+        "stars": 13300,
+        "forks": 4720,
+        "pull_requests": 30,
+        "pScore": 18920
+    },
+    {
+        "repo": "drill",
+        "stars": 1959,
+        "forks": 979,
+        "pull_requests": 30,
+        "pScore": 3838
+    },
+    {
+        "repo": "druid",
+        "stars": 13623,
+        "forks": 3727,
+        "pull_requests": 30,
+        "pScore": 18250
+    },
+    {
+        "repo": "dubbo",
+        "stars": 40764,
+        "forks": 26489,
+        "pull_requests": 30,
+        "pScore": 68153
+    },
+    {
+        "repo": "eagle",
+        "stars": 409,
+        "forks": 179,
+        "pull_requests": 30,
+        "pScore": 1488
+    },
+    {
+        "repo": "ant",
+        "stars": 431,
+        "forks": 440,
+        "pull_requests": 30,
+        "pScore": 1771
+    },
+    {
+        "repo": "echarts",
+        "stars": 62016,
+        "forks": 19699,
+        "pull_requests": 30,
+        "pScore": 82615
+    },
+    {
+        "repo": "esme",
+        "stars": 17,
+        "forks": 8,
+        "pull_requests": 6,
+        "pScore": 61
+    },
+    {
+        "repo": "etch",
+        "stars": 17,
+        "forks": 8,
+        "pull_requests": 0,
+        "pScore": 25
+    },
+    {
+        "repo": "falcon",
+        "stars": 103,
+        "forks": 111,
+        "pull_requests": 30,
+        "pScore": 1114
+    },
+    {
+        "repo": "felix",
+        "stars": 286,
+        "forks": 318,
+        "pull_requests": 30,
+        "pScore": 1504
+    },
+    {
+        "repo": "fineract",
+        "stars": 1474,
+        "forks": 1795,
+        "pull_requests": 30,
+        "pScore": 4169
+    },
+    {
+        "repo": "flink",
+        "stars": 24581,
+        "forks": 13533,
+        "pull_requests": 30,
+        "pScore": 39014
+    },
+    {
+        "repo": "flume",
+        "stars": 2545,
+        "forks": 1576,
+        "pull_requests": 30,
+        "pScore": 5021
+    },
+    {
+        "repo": "fluo",
+        "stars": 188,
+        "forks": 72,
+        "pull_requests": 30,
+        "pScore": 1160
+    },
+    {
+        "repo": "freemarker",
+        "stars": 1010,
+        "forks": 271,
+        "pull_requests": 30,
+        "pScore": 2181
+    },
+    {
+        "repo": "ftpserver",
+        "stars": 79,
+        "forks": 54,
+        "pull_requests": 10,
+        "pScore": 233
+    },
+    {
+        "repo": "geode",
+        "stars": 2300,
+        "forks": 685,
+        "pull_requests": 30,
+        "pScore": 3885
+    },
+    {
+        "repo": "geronimo",
+        "stars": 37,
+        "forks": 22,
+        "pull_requests": 28,
+        "pScore": 843
+    },
+    {
+        "repo": "giraph",
+        "stars": 618,
+        "forks": 301,
+        "pull_requests": 30,
+        "pScore": 1819
+    },
+    {
+        "repo": "gobblin",
+        "stars": 2236,
+        "forks": 751,
+        "pull_requests": 30,
+        "pScore": 3887
+    },
+    {
+        "repo": "gora",
+        "stars": 121,
+        "forks": 129,
+        "pull_requests": 30,
+        "pScore": 1150
+    },
+    {
+        "repo": "griffin",
+        "stars": 1151,
+        "forks": 588,
+        "pull_requests": 30,
+        "pScore": 2639
+    },
+    {
+        "repo": "groovy",
+        "stars": 5267,
+        "forks": 1898,
+        "pull_requests": 30,
+        "pScore": 8065
+    },
+    {
+        "repo": "hama",
+        "stars": 131,
+        "forks": 71,
+        "pull_requests": 20,
+        "pScore": 602
+    },
+    {
+        "repo": "harmony",
+        "stars": 86,
+        "forks": 38,
+        "pull_requests": 0,
+        "pScore": 124
+    },
+    {
+        "repo": "hawq",
+        "stars": 694,
+        "forks": 328,
+        "pull_requests": 30,
+        "pScore": 1922
+    },
+    {
+        "repo": "hcatalog",
+        "stars": 60,
+        "forks": 45,
+        "pull_requests": 2,
+        "pScore": 109
+    },
+    {
+        "repo": "helix",
+        "stars": 476,
+        "forks": 228,
+        "pull_requests": 30,
+        "pScore": 1604
+    },
+    {
+        "repo": "hudi",
+        "stars": 5676,
+        "forks": 2462,
+        "pull_requests": 30,
+        "pScore": 9038
+    },
+    {
+        "repo": "iceberg",
+        "stars": 6971,
+        "forks": 2400,
+        "pull_requests": 30,
+        "pScore": 10271
+    },
+    {
+        "repo": "ignite",
+        "stars": 4888,
+        "forks": 1912,
+        "pull_requests": 30,
+        "pScore": 7700
+    },
+    {
+        "repo": "impala",
+        "stars": 1192,
+        "forks": 519,
+        "pull_requests": 30,
+        "pScore": 2611
+    },
+    {
+        "repo": "iotdb",
+        "stars": 5701,
+        "forks": 1040,
+        "pull_requests": 30,
+        "pScore": 7641
+    },
+    {
+        "repo": "isis",
+        "stars": 864,
+        "forks": 305,
+        "pull_requests": 30,
+        "pScore": 2069
+    },
+    {
+        "repo": "jackrabbit",
+        "stars": 346,
+        "forks": 220,
+        "pull_requests": 30,
+        "pScore": 1466
+    },
+    {
+        "repo": "jclouds",
+        "stars": 205,
+        "forks": 142,
+        "pull_requests": 30,
+        "pScore": 1247
+    },
+    {
+        "repo": "jena",
+        "stars": 1150,
+        "forks": 662,
+        "pull_requests": 30,
+        "pScore": 2712
+    },
+    {
+        "repo": "johnzon",
+        "stars": 53,
+        "forks": 66,
+        "pull_requests": 30,
+        "pScore": 1019
+    },
+    {
+        "repo": "joshua",
+        "stars": 106,
+        "forks": 63,
+        "pull_requests": 30,
+        "pScore": 1069
+    },
+    {
+        "repo": "jspwiki",
+        "stars": 107,
+        "forks": 102,
+        "pull_requests": 30,
+        "pScore": 1109
+    },
+    {
+        "repo": "juddi",
+        "stars": 18,
+        "forks": 14,
+        "pull_requests": 30,
+        "pScore": 932
+    },
+    {
+        "repo": "juneau",
+        "stars": 82,
+        "forks": 39,
+        "pull_requests": 30,
+        "pScore": 1021
+    },
+    {
+        "repo": "kafka",
+        "stars": 29569,
+        "forks": 14214,
+        "pull_requests": 30,
+        "pScore": 44683
+    },
+    {
+        "repo": "knox",
+        "stars": 195,
+        "forks": 254,
+        "pull_requests": 30,
+        "pScore": 1349
+    },
+    {
+        "repo": "kudu",
+        "stars": 1859,
+        "forks": 653,
+        "pull_requests": 30,
+        "pScore": 3412
+    },
+    {
+        "repo": "kylin",
+        "stars": 3682,
+        "forks": 1531,
+        "pull_requests": 30,
+        "pScore": 6113
+    },
+    {
+        "repo": "lens",
+        "stars": 60,
+        "forks": 94,
+        "pull_requests": 30,
+        "pScore": 1054
+    },
+    {
+        "repo": "lenya",
+        "stars": 18,
+        "forks": 7,
+        "pull_requests": 10,
+        "pScore": 125
+    },
+    {
+        "repo": "libcloud",
+        "stars": 2047,
+        "forks": 924,
+        "pull_requests": 30,
+        "pScore": 3871
+    },
+    {
+        "repo": "lucenenet",
+        "stars": 2277,
+        "forks": 643,
+        "pull_requests": 30,
+        "pScore": 3820
+    },
+    {
+        "repo": "lucy",
+        "stars": 99,
+        "forks": 24,
+        "pull_requests": 30,
+        "pScore": 1023
+    },
+    {
+        "repo": "madlib",
+        "stars": 465,
+        "forks": 148,
+        "pull_requests": 30,
+        "pScore": 1513
+    },
+    {
+        "repo": "manifoldcf",
+        "stars": 77,
+        "forks": 64,
+        "pull_requests": 30,
+        "pScore": 1041
+    },
+    {
+        "repo": "marmotta",
+        "stars": 54,
+        "forks": 51,
+        "pull_requests": 30,
+        "pScore": 1005
+    },
+    {
+        "repo": "mesos",
+        "stars": 5294,
+        "forks": 1675,
+        "pull_requests": 30,
+        "pScore": 7869
+    },
+    {
+        "repo": "metamodel",
+        "stars": 156,
+        "forks": 148,
+        "pull_requests": 30,
+        "pScore": 1204
+    },
+    {
+        "repo": "metron",
+        "stars": 856,
+        "forks": 509,
+        "pull_requests": 30,
+        "pScore": 2265
+    },
+    {
+        "repo": "mnemonic",
+        "stars": 120,
+        "forks": 63,
+        "pull_requests": 30,
+        "pScore": 1083
+    },
+    {
+        "repo": "mrunit",
+        "stars": 38,
+        "forks": 24,
+        "pull_requests": 1,
+        "pScore": 63
+    },
+    {
+        "repo": "myfaces",
+        "stars": 120,
+        "forks": 71,
+        "pull_requests": 30,
+        "pScore": 1091
+    },
+    {
+        "repo": "netbeans",
+        "stars": 2757,
+        "forks": 874,
+        "pull_requests": 30,
+        "pScore": 4531
+    },
+    {
+        "repo": "nifi",
+        "stars": 5132,
+        "forks": 2761,
+        "pull_requests": 30,
+        "pScore": 8793
+    },
+    {
+        "repo": "nutch",
+        "stars": 2980,
+        "forks": 1252,
+        "pull_requests": 30,
+        "pScore": 5132
+    },
+    {
+        "repo": "nuvem",
+        "stars": 2,
+        "forks": 3,
+        "pull_requests": 2,
+        "pScore": 9
+    },
+    {
+        "repo": "ode",
+        "stars": 44,
+        "forks": 60,
+        "pull_requests": 8,
+        "pScore": 168
+    },
+    {
+        "repo": "ofbiz",
+        "stars": 787,
+        "forks": 554,
+        "pull_requests": 27,
+        "pScore": 2070
+    },
+    {
+        "repo": "onami",
+        "stars": 11,
+        "forks": 3,
+        "pull_requests": 0,
+        "pScore": 14
+    },
+    {
+        "repo": "oodt",
+        "stars": 63,
+        "forks": 60,
+        "pull_requests": 30,
+        "pScore": 1023
+    },
+    {
+        "repo": "oozie",
+        "stars": 723,
+        "forks": 473,
+        "pull_requests": 30,
+        "pScore": 2096
+    },
+    {
+        "repo": "climate",
+        "stars": 140,
+        "forks": 112,
+        "pull_requests": 30,
+        "pScore": 1152
+    },
+    {
+        "repo": "openejb",
+        "stars": 12,
+        "forks": 26,
+        "pull_requests": 30,
+        "pScore": 938
+    },
+    {
+        "repo": "openjpa",
+        "stars": 138,
+        "forks": 134,
+        "pull_requests": 30,
+        "pScore": 1172
+    },
+    {
+        "repo": "openmeetings",
+        "stars": 647,
+        "forks": 263,
+        "pull_requests": 30,
+        "pScore": 1810
+    },
+    {
+        "repo": "opennlp",
+        "stars": 1477,
+        "forks": 461,
+        "pull_requests": 30,
+        "pScore": 2838
+    },
+    {
+        "repo": "openoffice",
+        "stars": 1003,
+        "forks": 325,
+        "pull_requests": 30,
+        "pScore": 2228
+    },
+    {
+        "repo": "openwebbeans",
+        "stars": 68,
+        "forks": 61,
+        "pull_requests": 30,
+        "pScore": 1029
+    },
+    {
+        "repo": "openwhisk",
+        "stars": 6613,
+        "forks": 1170,
+        "pull_requests": 30,
+        "pScore": 8683
+    },
+    {
+        "repo": "pdfbox",
+        "stars": 2765,
+        "forks": 883,
+        "pull_requests": 30,
+        "pScore": 4548
+    },
+    {
+        "repo": "phoenix",
+        "stars": 1035,
+        "forks": 1006,
+        "pull_requests": 30,
+        "pScore": 2941
+    },
+    {
+        "repo": "pig",
+        "stars": 687,
+        "forks": 449,
+        "pull_requests": 30,
+        "pScore": 2036
+    },
+    {
+        "repo": "pinot",
+        "stars": 5654,
+        "forks": 1334,
+        "pull_requests": 30,
+        "pScore": 7888
+    },
+    {
+        "repo": "pivot",
+        "stars": 42,
+        "forks": 24,
+        "pull_requests": 0,
+        "pScore": 66
+    },
+    {
+        "repo": "plc4x",
+        "stars": 1376,
+        "forks": 432,
+        "pull_requests": 30,
+        "pScore": 2708
+    },
+    {
+        "repo": "pluto",
+        "stars": 4,
+        "forks": 7,
+        "pull_requests": 11,
+        "pScore": 132
+    },
+    {
+        "repo": "predictionio",
+        "stars": 12527,
+        "forks": 1927,
+        "pull_requests": 30,
+        "pScore": 15354
+    },
+    {
+        "repo": "pulsar",
+        "stars": 14464,
+        "forks": 3618,
+        "pull_requests": 30,
+        "pScore": 18982
+    },
+    {
+        "repo": "qpid",
+        "stars": 128,
+        "forks": 86,
+        "pull_requests": 10,
+        "pScore": 314
+    },
+    {
+        "repo": "ranger",
+        "stars": 932,
+        "forks": 1001,
+        "pull_requests": 30,
+        "pScore": 2833
+    },
+    {
+        "repo": "ratis",
+        "stars": 1333,
+        "forks": 426,
+        "pull_requests": 30,
+        "pScore": 2659
+    },
+    {
+        "repo": "rave",
+        "stars": 15,
+        "forks": 11,
+        "pull_requests": 23,
+        "pScore": 555
+    },
+    {
+        "repo": "reef",
+        "stars": 94,
+        "forks": 96,
+        "pull_requests": 30,
+        "pScore": 1090
+    },
+    {
+        "repo": "rocketmq",
+        "stars": 21578,
+        "forks": 11786,
+        "pull_requests": 30,
+        "pScore": 34264
+    },
+    {
+        "repo": "roller",
+        "stars": 124,
+        "forks": 132,
+        "pull_requests": 30,
+        "pScore": 1156
+    },
+    {
+        "repo": "rya",
+        "stars": 109,
+        "forks": 75,
+        "pull_requests": 30,
+        "pScore": 1084
+    },
+    {
+        "repo": "samza",
+        "stars": 821,
+        "forks": 336,
+        "pull_requests": 30,
+        "pScore": 2057
+    },
+    {
+        "repo": "sanselan",
+        "stars": 35,
+        "forks": 16,
+        "pull_requests": 3,
+        "pScore": 60
+    },
+    {
+        "repo": "sentry",
+        "stars": 120,
+        "forks": 88,
+        "pull_requests": 11,
+        "pScore": 329
+    },
+    {
+        "repo": "servicemix",
+        "stars": 160,
+        "forks": 152,
+        "pull_requests": 30,
+        "pScore": 1212
+    },
+    {
+        "repo": "shardingsphere",
+        "stars": 20094,
+        "forks": 6794,
+        "pull_requests": 30,
+        "pScore": 27788
+    },
+    {
+        "repo": "shindig",
+        "stars": 66,
+        "forks": 68,
+        "pull_requests": 7,
+        "pScore": 183
+    },
+    {
+        "repo": "shiro",
+        "stars": 4357,
+        "forks": 2311,
+        "pull_requests": 30,
+        "pScore": 7568
+    },
+    {
+        "repo": "singa",
+        "stars": 3379,
+        "forks": 1248,
+        "pull_requests": 30,
+        "pScore": 5527
+    },
+    {
+        "repo": "sis",
+        "stars": 100,
+        "forks": 46,
+        "pull_requests": 30,
+        "pScore": 1046
+    },
+    {
+        "repo": "skywalking",
+        "stars": 24144,
+        "forks": 6565,
+        "pull_requests": 30,
+        "pScore": 31609
+    },
+    {
+        "repo": "sling",
+        "stars": 219,
+        "forks": 258,
+        "pull_requests": 30,
+        "pScore": 1377
+    },
+    {
+        "repo": "solr",
+        "stars": 1317,
+        "forks": 697,
+        "pull_requests": 30,
+        "pScore": 2914
+    },
+    {
+        "repo": "spamassassin",
+        "stars": 284,
+        "forks": 76,
+        "pull_requests": 2,
+        "pScore": 364
+    },
+    {
+        "repo": "spark",
+        "stars": 40655,
+        "forks": 28525,
+        "pull_requests": 30,
+        "pScore": 70080
+    },
+    {
+        "repo": "sqoop",
+        "stars": 980,
+        "forks": 586,
+        "pull_requests": 30,
+        "pScore": 2466
+    },
+    {
+        "repo": "stanbol",
+        "stars": 112,
+        "forks": 74,
+        "pull_requests": 30,
+        "pScore": 1086
+    },
+    {
+        "repo": "stdcxx",
+        "stars": 63,
+        "forks": 25,
+        "pull_requests": 0,
+        "pScore": 88
+    },
+    {
+        "repo": "storm",
+        "stars": 6613,
+        "forks": 4077,
+        "pull_requests": 30,
+        "pScore": 11590
+    },
+    {
+        "repo": "stratos",
+        "stars": 158,
+        "forks": 115,
+        "pull_requests": 30,
+        "pScore": 1173
+    },
+    {
+        "repo": "streams",
+        "stars": 77,
+        "forks": 45,
+        "pull_requests": 30,
+        "pScore": 1022
+    },
+    {
+        "repo": "subversion",
+        "stars": 587,
+        "forks": 179,
+        "pull_requests": 18,
+        "pScore": 1090
+    },
+    {
+        "repo": "superset",
+        "stars": 64778,
+        "forks": 14604,
+        "pull_requests": 30,
+        "pScore": 80282
+    },
+    {
+        "repo": "synapse",
+        "stars": 72,
+        "forks": 57,
+        "pull_requests": 30,
+        "pScore": 1029
+    },
+    {
+        "repo": "syncope",
+        "stars": 278,
+        "forks": 184,
+        "pull_requests": 30,
+        "pScore": 1362
+    },
+    {
+        "repo": "systemml",
+        "stars": 1041,
+        "forks": 481,
+        "pull_requests": 30,
+        "pScore": 2422
+    },
+    {
+        "repo": "tajo",
+        "stars": 134,
+        "forks": 110,
+        "pull_requests": 30,
+        "pScore": 1144
+    },
+    {
+        "repo": "tez",
+        "stars": 490,
+        "forks": 428,
+        "pull_requests": 30,
+        "pScore": 1818
+    },
+    {
+        "repo": "thrift",
+        "stars": 10649,
+        "forks": 4045,
+        "pull_requests": 30,
+        "pScore": 15594
+    },
+    {
+        "repo": "tika",
+        "stars": 2795,
+        "forks": 803,
+        "pull_requests": 30,
+        "pScore": 4498
+    },
+    {
+        "repo": "tinkerpop",
+        "stars": 2016,
+        "forks": 820,
+        "pull_requests": 30,
+        "pScore": 3736
+    },
+    {
+        "repo": "myfaces",
+        "stars": 120,
+        "forks": 71,
+        "pull_requests": 30,
+        "pScore": 1091
+    },
+    {
+        "repo": "trafficcontrol",
+        "stars": 1120,
+        "forks": 345,
+        "pull_requests": 30,
+        "pScore": 2365
+    },
+    {
+        "repo": "trafficserver",
+        "stars": 1842,
+        "forks": 819,
+        "pull_requests": 30,
+        "pScore": 3561
+    },
+    {
+        "repo": "trafodion",
+        "stars": 246,
+        "forks": 151,
+        "pull_requests": 30,
+        "pScore": 1297
+    },
+    {
+        "repo": "tvm",
+        "stars": 12062,
+        "forks": 3523,
+        "pull_requests": 30,
+        "pScore": 16485
+    },
+    {
+        "repo": "twill",
+        "stars": 69,
+        "forks": 70,
+        "pull_requests": 30,
+        "pScore": 1039
+    },
+    {
+        "repo": "unomi",
+        "stars": 295,
+        "forks": 132,
+        "pull_requests": 30,
+        "pScore": 1327
+    },
+    {
+        "repo": "usergrid",
+        "stars": 991,
+        "forks": 424,
+        "pull_requests": 30,
+        "pScore": 2315
+    },
+    {
+        "repo": "vcl",
+        "stars": 12,
+        "forks": 19,
+        "pull_requests": 11,
+        "pScore": 152
+    },
+    {
+        "repo": "vxquery",
+        "stars": 20,
+        "forks": 29,
+        "pull_requests": 30,
+        "pScore": 949
+    },
+    {
+        "repo": "struts",
+        "stars": 1309,
+        "forks": 820,
+        "pull_requests": 30,
+        "pScore": 3029
+    },
+    {
+        "repo": "whirr",
+        "stars": 93,
+        "forks": 58,
+        "pull_requests": 7,
+        "pScore": 200
+    },
+    {
+        "repo": "wicket",
+        "stars": 751,
+        "forks": 393,
+        "pull_requests": 30,
+        "pScore": 2044
+    },
+    {
+        "repo": "wink",
+        "stars": 20,
+        "forks": 22,
+        "pull_requests": 12,
+        "pScore": 186
+    },
+    {
+        "repo": "wookie",
+        "stars": 6,
+        "forks": 5,
+        "pull_requests": 15,
+        "pScore": 236
+    },
+    {
+        "repo": "xmlbeans",
+        "stars": 54,
+        "forks": 62,
+        "pull_requests": 20,
+        "pScore": 516
+    },
+    {
+        "repo": "zeppelin",
+        "stars": 6468,
+        "forks": 2813,
+        "pull_requests": 30,
+        "pScore": 10181
+    },
+    {
+        "repo": "kalumet",
+        "stars": 7,
+        "forks": 5,
+        "pull_requests": 8,
+        "pScore": 76
+    },
+    {
+        "repo": "npanday",
+        "stars": 14,
+        "forks": 14,
+        "pull_requests": 16,
+        "pScore": 284
+    },
+    {
+        "repo": "photark",
+        "stars": 10,
+        "forks": 5,
+        "pull_requests": 6,
+        "pScore": 51
+    },
+    {
+        "repo": "sirona",
+        "stars": 110,
+        "forks": 46,
+        "pull_requests": 17,
+        "pScore": 445
+    },
+    {
+        "repo": "tashi",
+        "stars": 9,
+        "forks": 7,
+        "pull_requests": 2,
+        "pScore": 20
+    },
+    {
+        "repo": "zipkin",
+        "stars": 17134,
+        "forks": 3102,
+        "pull_requests": 30,
+        "pScore": 21136
+    }
+]
