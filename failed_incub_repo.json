@@ -16,7 +16,8 @@
     {"Toree": "https://github.com/apache/incubator-toree"},
     {"Training": "https://github.com/apache/incubator-training"},
     {"Tuweni": "https://github.com/apache/incubator-tuweni"},
-    {"Wayang": "https://github.com/apache/incubator-wayang"}
+    {"Wayang": "https://github.com/apache/incubator-wayang"},
+    {"Pagespeed": "https://github.com/apache/incubator-pagespeed-mod"},
+    {"SDAP" : "https://github.com/apache/sdap-in-situ-data-services"},
+    {"Yunikorn": "https://github.com/apache/yunikorn-core"}
 ]
-
-
