@@ -1,98 +1,224 @@
-[
-    {
+{
+    "age": {
         "repo": "age",
-        "stars": 3351,
+        "stars": 3361,
         "forks": 421,
         "pull_requests": 30
     },
-    {
+    "brpc": {
         "repo": "brpc",
-        "stars": 16799,
-        "forks": 4009,
+        "stars": 16814,
+        "forks": 4013,
         "pull_requests": 30
     },
-    {
+    "doris": {
         "repo": "doris",
-        "stars": 13257,
-        "forks": 3401,
+        "stars": 13283,
+        "forks": 3409,
         "pull_requests": 30
     },
-    {
+    "eventmesh": {
         "repo": "eventmesh",
         "stars": 1639,
         "forks": 640,
         "pull_requests": 30
     },
-    {
+    "flagon": {
         "repo": "flagon",
         "stars": 25,
         "forks": 15,
         "pull_requests": 30
     },
-    {
+    "hop": {
         "repo": "hop",
-        "stars": 1084,
-        "forks": 359,
+        "stars": 1089,
+        "forks": 361,
         "pull_requests": 30
     },
-    {
+    "inlong": {
         "repo": "inlong",
-        "stars": 1418,
-        "forks": 533,
+        "stars": 1419,
+        "forks": 532,
         "pull_requests": 30
     },
-    {
+    "kyuubi": {
         "repo": "kyuubi",
-        "stars": 2151,
-        "forks": 935,
+        "stars": 2153,
+        "forks": 938,
         "pull_requests": 30
     },
-    {
+    "linkis": {
         "repo": "linkis",
         "stars": 3343,
         "forks": 1168,
         "pull_requests": 30
     },
-    {
+    "mxnet": {
         "repo": "mxnet",
-        "stars": 20790,
-        "forks": 6772,
+        "stars": 20788,
+        "forks": 6770,
         "pull_requests": 30
     },
-    {
+    "nuttx": {
         "repo": "nuttx",
-        "stars": 3117,
-        "forks": 1257,
+        "stars": 3121,
+        "forks": 1258,
         "pull_requests": 30
     },
-    {
+    "pegasus": {
         "repo": "pegasus",
         "stars": 2002,
         "forks": 311,
         "pull_requests": 30
     },
-    {
+    "ponymail": {
         "repo": "ponymail",
         "stars": 80,
         "forks": 31,
         "pull_requests": 30
     },
-    {
+    "sedona": {
         "repo": "sedona",
         "stars": 2009,
         "forks": 697,
         "pull_requests": 30
     },
-    {
+    "shenyu": {
         "repo": "shenyu",
-        "stars": 8539,
+        "stars": 8544,
         "forks": 2974,
         "pull_requests": 30
     },
-    {
+    "streampipes": {
         "repo": "streampipes",
         "stars": 629,
         "forks": 193,
         "pull_requests": 30
+    },
+    "incubator-annotator": {
+        "repo": "incubator-annotator",
+        "stars": 231,
+        "forks": 41,
+        "pull_requests": 30
+    },
+    "incubator-bluemarlin": {
+        "repo": "incubator-bluemarlin",
+        "stars": 2,
+        "forks": 7,
+        "pull_requests": 30
+    },
+    "incubator-crail": {
+        "repo": "incubator-crail",
+        "stars": 149,
+        "forks": 46,
+        "pull_requests": 30
+    },
+    "incubator-datalab": {
+        "repo": "incubator-datalab",
+        "stars": 153,
+        "forks": 57,
+        "pull_requests": 30
+    },
+    "incubator-heron": {
+        "repo": "incubator-heron",
+        "stars": 3631,
+        "forks": 593,
+        "pull_requests": 30
+    },
+    "incubator-hivemall": {
+        "repo": "incubator-hivemall",
+        "stars": 311,
+        "forks": 117,
+        "pull_requests": 30
+    },
+    "incubator-liminal": {
+        "repo": "incubator-liminal",
+        "stars": 144,
+        "forks": 42,
+        "pull_requests": 30
+    },
+    "incubator-livy": {
+        "repo": "incubator-livy",
+        "stars": 904,
+        "forks": 606,
+        "pull_requests": 30
+    },
+    "incubator-marvin": {
+        "repo": "incubator-marvin",
+        "stars": 101,
+        "forks": 34,
+        "pull_requests": 30
+    },
+    "incubator-milagro": {
+        "repo": "incubator-milagro",
+        "stars": 42,
+        "forks": 13,
+        "pull_requests": 30
+    },
+    "incubator-nemo": {
+        "repo": "incubator-nemo",
+        "stars": 112,
+        "forks": 64,
+        "pull_requests": 30
+    },
+    "incubator-nlpcraft": {
+        "repo": "incubator-nlpcraft",
+        "stars": 79,
+        "forks": 25,
+        "pull_requests": 30
+    },
+    "incubator-spot": {
+        "repo": "incubator-spot",
+        "stars": 350,
+        "forks": 226,
+        "pull_requests": 30
+    },
+    "incubator-teaclave": {
+        "repo": "incubator-teaclave",
+        "stars": 773,
+        "forks": 160,
+        "pull_requests": 30
+    },
+    "incubator-toree": {
+        "repo": "incubator-toree",
+        "stars": 741,
+        "forks": 224,
+        "pull_requests": 30
+    },
+    "incubator-training": {
+        "repo": "incubator-training",
+        "stars": 31,
+        "forks": 38,
+        "pull_requests": 30
+    },
+    "incubator-tuweni": {
+        "repo": "incubator-tuweni",
+        "stars": 173,
+        "forks": 83,
+        "pull_requests": 30
+    },
+    "incubator-wayang": {
+        "repo": "incubator-wayang",
+        "stars": 217,
+        "forks": 91,
+        "pull_requests": 30
+    },
+    "incubator-pagespeed-mod": {
+        "repo": "incubator-pagespeed-mod",
+        "stars": 695,
+        "forks": 155,
+        "pull_requests": 30
+    },
+    "sdap-in-situ-data-services": {
+        "repo": "sdap-in-situ-data-services",
+        "stars": 4,
+        "forks": 5,
+        "pull_requests": 27
+    },
+    "yunikorn-core": {
+        "repo": "yunikorn-core",
+        "stars": 894,
+        "forks": 243,
+        "pull_requests": 30
     }
-]
+}

@@ -64,10 +64,6 @@
         "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/jdo"
     },
     {
-        "repo": "lenya",
-        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
-    },
-    {
         "repo": "log4cxx",
         "error": "404 Client Error: Not Found for url: https://api.github.com/repos/apache/log4cxx"
     },
