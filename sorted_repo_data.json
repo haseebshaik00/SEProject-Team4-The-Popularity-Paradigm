@@ -56,11 +56,27 @@
         "popular":1
     },
     {
+        "repo":"https:\/\/github.com\/jax-ml\/jax",
+        "stars":31556,
+        "forks":2923,
+        "pull_requests":30,
+        "pScore":35379,
+        "popular":1
+    },
+    {
         "repo":"rocketmq",
         "stars":21586,
         "forks":11791,
         "pull_requests":30,
         "pScore":34277,
+        "popular":1
+    },
+    {
+        "repo":"https:\/\/github.com\/mybatis\/mybatis-3",
+        "stars":19976,
+        "forks":12917,
+        "pull_requests":30,
+        "pScore":33793,
         "popular":1
     },
     {
@@ -149,6 +165,14 @@
         "forks":3524,
         "pull_requests":30,
         "pScore":16501,
+        "popular":1
+    },
+    {
+        "repo":"incubator-weex",
+        "stars":13719,
+        "forks":1808,
+        "pull_requests":30,
+        "pScore":16427,
         "popular":1
     },
     {
@@ -312,6 +336,14 @@
         "popular":1
     },
     {
+        "repo":"httpd",
+        "stars":3654,
+        "forks":1164,
+        "pull_requests":30,
+        "pScore":5718,
+        "popular":1
+    },
+    {
         "repo":"singa",
         "stars":3380,
         "forks":1248,
@@ -325,6 +357,14 @@
         "forks":1168,
         "pull_requests":30,
         "pScore":5411,
+        "popular":1
+    },
+    {
+        "repo":"commons-lang",
+        "stars":2779,
+        "forks":1623,
+        "pull_requests":30,
+        "pScore":5302,
         "popular":1
     },
     {
@@ -360,11 +400,27 @@
         "popular":1
     },
     {
+        "repo":"parquet-mr",
+        "stars":2737,
+        "forks":1448,
+        "pull_requests":30,
+        "pScore":5085,
+        "popular":1
+    },
+    {
         "repo":"flume",
         "stars":2546,
         "forks":1575,
         "pull_requests":30,
         "pScore":5021,
+        "popular":1
+    },
+    {
+        "repo":"lucene",
+        "stars":2875,
+        "forks":1090,
+        "pull_requests":30,
+        "pScore":4865,
         "popular":1
     },
     {
@@ -504,6 +560,14 @@
         "popular":1
     },
     {
+        "repo":"servicecomb-java-chassis",
+        "stars":1923,
+        "forks":825,
+        "pull_requests":30,
+        "pScore":3648,
+        "popular":1
+    },
+    {
         "repo":"sedona",
         "stars":2009,
         "forks":697,
@@ -549,6 +613,14 @@
         "forks":640,
         "pull_requests":30,
         "pScore":3179,
+        "popular":1
+    },
+    {
+        "repo":"guacamole-client",
+        "stars":1468,
+        "forks":734,
+        "pull_requests":30,
+        "pScore":3102,
         "popular":1
     },
     {
@@ -728,12 +800,36 @@
         "popular":1
     },
     {
+        "repo":"mynewt-core",
+        "stars":854,
+        "forks":370,
+        "pull_requests":30,
+        "pScore":2124,
+        "popular":0
+    },
+    {
+        "repo":"logging-log4net",
+        "stars":876,
+        "forks":334,
+        "pull_requests":30,
+        "pScore":2110,
+        "popular":0
+    },
+    {
         "repo":"oozie",
         "stars":722,
         "forks":473,
         "pull_requests":30,
         "pScore":2095,
-        "popular":1
+        "popular":0
+    },
+    {
+        "repo":"https:\/\/github.com\/fff-rs\/juice",
+        "stars":1119,
+        "forks":76,
+        "pull_requests":30,
+        "pScore":2095,
+        "popular":0
     },
     {
         "repo":"isis",
@@ -741,7 +837,7 @@
         "forks":305,
         "pull_requests":30,
         "pScore":2070,
-        "popular":1
+        "popular":0
     },
     {
         "repo":"ofbiz",
@@ -749,7 +845,7 @@
         "forks":554,
         "pull_requests":27,
         "pScore":2070,
-        "popular":1
+        "popular":0
     },
     {
         "repo":"samza",
@@ -757,7 +853,7 @@
         "forks":336,
         "pull_requests":30,
         "pScore":2057,
-        "popular":1
+        "popular":0
     },
     {
         "repo":"bigtop",
@@ -765,7 +861,7 @@
         "forks":519,
         "pull_requests":30,
         "pScore":2049,
-        "popular":1
+        "popular":0
     },
     {
         "repo":"wicket",
@@ -773,7 +869,7 @@
         "forks":393,
         "pull_requests":30,
         "pScore":2044,
-        "popular":1
+        "popular":0
     },
     {
         "repo":"yunikorn-core",
@@ -781,7 +877,7 @@
         "forks":243,
         "pull_requests":30,
         "pScore":2037,
-        "popular":1
+        "popular":0
     },
     {
         "repo":"pig",
@@ -789,7 +885,7 @@
         "forks":449,
         "pull_requests":30,
         "pScore":2036,
-        "popular":1
+        "popular":0
     },
     {
         "repo":"hawq",
@@ -797,7 +893,7 @@
         "forks":328,
         "pull_requests":30,
         "pScore":1922,
-        "popular":1
+        "popular":0
     },
     {
         "repo":"incubator-toree",
@@ -928,6 +1024,22 @@
         "popular":0
     },
     {
+        "repo":"apex-core",
+        "stars":349,
+        "forks":173,
+        "pull_requests":30,
+        "pScore":1422,
+        "popular":0
+    },
+    {
+        "repo":"flex-sdk",
+        "stars":355,
+        "forks":144,
+        "pull_requests":30,
+        "pScore":1399,
+        "popular":0
+    },
+    {
         "repo":"derby",
         "stars":352,
         "forks":140,
@@ -992,6 +1104,14 @@
         "popular":0
     },
     {
+        "repo":"logging-log4cxx",
+        "stars":283,
+        "forks":124,
+        "pull_requests":30,
+        "pScore":1307,
+        "popular":0
+    },
+    {
         "repo":"trafodion",
         "stars":246,
         "forks":151,
@@ -1000,11 +1120,59 @@
         "popular":0
     },
     {
+        "repo":"incubator-gearpump",
+        "stars":296,
+        "forks":91,
+        "pull_requests":30,
+        "pScore":1287,
+        "popular":0
+    },
+    {
+        "repo":"incubator-gossip",
+        "stars":251,
+        "forks":110,
+        "pull_requests":30,
+        "pScore":1261,
+        "popular":0
+    },
+    {
+        "repo":"olingo-odata4",
+        "stars":169,
+        "forks":190,
+        "pull_requests":30,
+        "pScore":1259,
+        "popular":0
+    },
+    {
+        "repo":"incubator-samoa",
+        "stars":248,
+        "forks":106,
+        "pull_requests":30,
+        "pScore":1254,
+        "popular":0
+    },
+    {
+        "repo":"incubator-edgent",
+        "stars":216,
+        "forks":135,
+        "pull_requests":30,
+        "pScore":1251,
+        "popular":0
+    },
+    {
         "repo":"jclouds",
         "stars":205,
         "forks":143,
         "pull_requests":30,
         "pScore":1248,
+        "popular":0
+    },
+    {
+        "repo":"incubator-s2graph",
+        "stars":269,
+        "forks":64,
+        "pull_requests":30,
+        "pScore":1233,
         "popular":0
     },
     {
@@ -1088,17 +1256,17 @@
         "popular":0
     },
     {
-        "repo":"roller",
-        "stars":124,
-        "forks":132,
+        "repo":"incubator-tuweni",
+        "stars":173,
+        "forks":83,
         "pull_requests":30,
         "pScore":1156,
         "popular":0
     },
     {
-        "repo":"incubator-tuweni",
-        "stars":173,
-        "forks":83,
+        "repo":"roller",
+        "stars":124,
+        "forks":132,
         "pull_requests":30,
         "pScore":1156,
         "popular":0
@@ -1120,17 +1288,17 @@
         "popular":0
     },
     {
-        "repo":"airavata",
-        "stars":119,
-        "forks":126,
+        "repo":"tajo",
+        "stars":134,
+        "forks":111,
         "pull_requests":30,
         "pScore":1145,
         "popular":0
     },
     {
-        "repo":"tajo",
-        "stars":134,
-        "forks":111,
+        "repo":"airavata",
+        "stars":119,
+        "forks":126,
         "pull_requests":30,
         "pScore":1145,
         "popular":0
@@ -1141,6 +1309,30 @@
         "forks":88,
         "pull_requests":30,
         "pScore":1128,
+        "popular":0
+    },
+    {
+        "repo":"incubator-retired-ripple",
+        "stars":171,
+        "forks":53,
+        "pull_requests":30,
+        "pScore":1124,
+        "popular":0
+    },
+    {
+        "repo":"incubator-myriad",
+        "stars":154,
+        "forks":68,
+        "pull_requests":30,
+        "pScore":1122,
+        "popular":0
+    },
+    {
+        "repo":"tapestry-5",
+        "stars":122,
+        "forks":95,
+        "pull_requests":30,
+        "pScore":1117,
         "popular":0
     },
     {
@@ -1200,19 +1392,19 @@
         "popular":0
     },
     {
-        "repo":"myfaces",
-        "stars":120,
-        "forks":71,
-        "pull_requests":30,
-        "pScore":1091,
-        "popular":0
-    },
-    {
         "repo":"reef",
         "stars":94,
         "forks":96,
         "pull_requests":30,
         "pScore":1090,
+        "popular":0
+    },
+    {
+        "repo":"datafu",
+        "stars":120,
+        "forks":66,
+        "pull_requests":30,
+        "pScore":1086,
         "popular":0
     },
     {
@@ -1232,11 +1424,11 @@
         "popular":0
     },
     {
-        "repo":"datafu",
-        "stars":120,
-        "forks":66,
+        "repo":"crunch",
+        "stars":104,
+        "forks":80,
         "pull_requests":30,
-        "pScore":1086,
+        "pScore":1084,
         "popular":0
     },
     {
@@ -1248,19 +1440,19 @@
         "popular":0
     },
     {
-        "repo":"crunch",
-        "stars":104,
-        "forks":80,
-        "pull_requests":30,
-        "pScore":1084,
-        "popular":0
-    },
-    {
         "repo":"mnemonic",
         "stars":120,
         "forks":63,
         "pull_requests":30,
         "pScore":1083,
+        "popular":0
+    },
+    {
+        "repo":"ant-ivy",
+        "stars":69,
+        "forks":113,
+        "pull_requests":30,
+        "pScore":1082,
         "popular":0
     },
     {
@@ -1288,6 +1480,14 @@
         "popular":0
     },
     {
+        "repo":"incubator-retired-quickstep",
+        "stars":95,
+        "forks":63,
+        "pull_requests":30,
+        "pScore":1058,
+        "popular":0
+    },
+    {
         "repo":"lens",
         "stars":60,
         "forks":94,
@@ -1304,11 +1504,27 @@
         "popular":0
     },
     {
+        "repo":"incubator-omid",
+        "stars":88,
+        "forks":60,
+        "pull_requests":30,
+        "pScore":1048,
+        "popular":0
+    },
+    {
         "repo":"sis",
         "stars":100,
         "forks":45,
         "pull_requests":30,
         "pScore":1045,
+        "popular":0
+    },
+    {
+        "repo":"incubator-retired-wave",
+        "stars":217,
+        "forks":97,
+        "pull_requests":27,
+        "pScore":1043,
         "popular":0
     },
     {
@@ -1336,17 +1552,17 @@
         "popular":0
     },
     {
-        "repo":"synapse",
-        "stars":72,
-        "forks":57,
+        "repo":"openwebbeans",
+        "stars":68,
+        "forks":61,
         "pull_requests":30,
         "pScore":1029,
         "popular":0
     },
     {
-        "repo":"openwebbeans",
-        "stars":68,
-        "forks":61,
+        "repo":"synapse",
+        "stars":72,
+        "forks":57,
         "pull_requests":30,
         "pScore":1029,
         "popular":0
@@ -1416,9 +1632,81 @@
         "popular":0
     },
     {
+        "repo":"uima-uimaj",
+        "stars":64,
+        "forks":37,
+        "pull_requests":30,
+        "pScore":1001,
+        "popular":0
+    },
+    {
+        "repo":"openwhisk-composer",
+        "stars":69,
+        "forks":21,
+        "pull_requests":30,
+        "pScore":990,
+        "popular":0
+    },
+    {
+        "repo":"commons-rdf",
+        "stars":47,
+        "forks":42,
+        "pull_requests":30,
+        "pScore":989,
+        "popular":0
+    },
+    {
+        "repo":"incubator-retired-pirk",
+        "stars":57,
+        "forks":26,
+        "pull_requests":30,
+        "pScore":983,
+        "popular":0
+    },
+    {
+        "repo":"incubator-tephra",
+        "stars":31,
+        "forks":50,
+        "pull_requests":30,
+        "pScore":981,
+        "popular":0
+    },
+    {
+        "repo":"creadur-rat",
+        "stars":30,
+        "forks":49,
+        "pull_requests":30,
+        "pScore":979,
+        "popular":0
+    },
+    {
+        "repo":"ws-wss4j",
+        "stars":36,
+        "forks":41,
+        "pull_requests":30,
+        "pScore":977,
+        "popular":0
+    },
+    {
+        "repo":"incubator-retired-tamaya",
+        "stars":44,
+        "forks":32,
+        "pull_requests":30,
+        "pScore":976,
+        "popular":0
+    },
+    {
         "repo":"bval",
         "stars":44,
         "forks":29,
+        "pull_requests":30,
+        "pScore":973,
+        "popular":0
+    },
+    {
+        "repo":"incubator-ariatosca",
+        "stars":28,
+        "forks":45,
         "pull_requests":30,
         "pScore":973,
         "popular":0
@@ -1429,6 +1717,14 @@
         "forks":38,
         "pull_requests":30,
         "pScore":969,
+        "popular":0
+    },
+    {
+        "repo":"incubator-iota",
+        "stars":33,
+        "forks":30,
+        "pull_requests":30,
+        "pScore":963,
         "popular":0
     },
     {
@@ -1448,6 +1744,22 @@
         "popular":0
     },
     {
+        "repo":"db-jdo",
+        "stars":31,
+        "forks":17,
+        "pull_requests":30,
+        "pScore":948,
+        "popular":0
+    },
+    {
+        "repo":"incubator-horn",
+        "stars":28,
+        "forks":16,
+        "pull_requests":30,
+        "pScore":944,
+        "popular":0
+    },
+    {
         "repo":"flagon",
         "stars":25,
         "forks":15,
@@ -1464,9 +1776,25 @@
         "popular":0
     },
     {
+        "repo":"ws-axiom",
+        "stars":12,
+        "forks":23,
+        "pull_requests":30,
+        "pScore":935,
+        "popular":0
+    },
+    {
         "repo":"juddi",
         "stars":18,
         "forks":14,
+        "pull_requests":30,
+        "pScore":932,
+        "popular":0
+    },
+    {
+        "repo":"incubator-retired-mrql",
+        "stars":17,
+        "forks":15,
         "pull_requests":30,
         "pScore":932,
         "popular":0
@@ -1493,6 +1821,14 @@
         "forks":5,
         "pull_requests":27,
         "pScore":738,
+        "popular":0
+    },
+    {
+        "repo":"logging-log4php",
+        "stars":100,
+        "forks":81,
+        "pull_requests":22,
+        "pScore":665,
         "popular":0
     },
     {
@@ -1552,11 +1888,27 @@
         "popular":0
     },
     {
+        "repo":"incubator-batchee",
+        "stars":14,
+        "forks":17,
+        "pull_requests":20,
+        "pScore":431,
+        "popular":0
+    },
+    {
         "repo":"spamassassin",
         "stars":285,
         "forks":77,
         "pull_requests":2,
         "pScore":366,
+        "popular":0
+    },
+    {
+        "repo":"empire-db",
+        "stars":83,
+        "forks":23,
+        "pull_requests":16,
+        "pScore":362,
         "popular":0
     },
     {
@@ -1568,11 +1920,27 @@
         "popular":0
     },
     {
+        "repo":"incubator-retired-htrace",
+        "stars":106,
+        "forks":82,
+        "pull_requests":13,
+        "pScore":357,
+        "popular":0
+    },
+    {
         "repo":"sentry",
         "stars":120,
         "forks":88,
         "pull_requests":11,
         "pScore":329,
+        "popular":0
+    },
+    {
+        "repo":"activemq-apollo",
+        "stars":153,
+        "forks":70,
+        "pull_requests":10,
+        "pScore":323,
         "popular":0
     },
     {
@@ -1608,18 +1976,18 @@
         "popular":0
     },
     {
-        "repo":"ftpserver",
-        "stars":79,
-        "forks":54,
-        "pull_requests":10,
-        "pScore":233,
-        "popular":0
-    },
-    {
         "repo":"allura",
         "stars":134,
         "forks":35,
         "pull_requests":8,
+        "pScore":233,
+        "popular":0
+    },
+    {
+        "repo":"ftpserver",
+        "stars":79,
+        "forks":54,
+        "pull_requests":10,
         "pScore":233,
         "popular":0
     },
@@ -1629,6 +1997,14 @@
         "forks":40,
         "pull_requests":10,
         "pScore":224,
+        "popular":0
+    },
+    {
+        "repo":"incubator-retired-slider",
+        "stars":78,
+        "forks":72,
+        "pull_requests":8,
+        "pScore":214,
         "popular":0
     },
     {
@@ -1712,6 +2088,14 @@
         "popular":0
     },
     {
+        "repo":"incubator-cotton",
+        "stars":91,
+        "forks":22,
+        "pull_requests":0,
+        "pScore":113,
+        "popular":0
+    },
+    {
         "repo":"hcatalog",
         "stars":60,
         "forks":45,
@@ -1728,11 +2112,59 @@
         "popular":0
     },
     {
+        "repo":"incubator-blur",
+        "stars":33,
+        "forks":31,
+        "pull_requests":6,
+        "pScore":100,
+        "popular":0
+    },
+    {
+        "repo":"incubator-retired-openaz",
+        "stars":17,
+        "forks":25,
+        "pull_requests":7,
+        "pScore":91,
+        "popular":0
+    },
+    {
+        "repo":"incubator-taverna-engine",
+        "stars":16,
+        "forks":9,
+        "pull_requests":8,
+        "pScore":89,
+        "popular":0
+    },
+    {
+        "repo":"infrastructure-pypubsub",
+        "stars":4,
+        "forks":3,
+        "pull_requests":9,
+        "pScore":88,
+        "popular":0
+    },
+    {
         "repo":"stdcxx",
         "stars":63,
         "forks":25,
         "pull_requests":0,
         "pScore":88,
+        "popular":0
+    },
+    {
+        "repo":"https:\/\/github.com\/carllerche\/kabuki",
+        "stars":73,
+        "forks":3,
+        "pull_requests":2,
+        "pScore":80,
+        "popular":0
+    },
+    {
+        "repo":"zetacomponents",
+        "stars":47,
+        "forks":14,
+        "pull_requests":4,
+        "pScore":77,
         "popular":0
     },
     {
@@ -1744,11 +2176,27 @@
         "popular":0
     },
     {
+        "repo":"odftoolkit",
+        "stars":36,
+        "forks":24,
+        "pull_requests":3,
+        "pScore":69,
+        "popular":0
+    },
+    {
         "repo":"pivot",
         "stars":42,
         "forks":24,
         "pull_requests":0,
         "pScore":66,
+        "popular":0
+    },
+    {
+        "repo":"incubator-retired-s4",
+        "stars":42,
+        "forks":17,
+        "pull_requests":2,
+        "pScore":63,
         "popular":0
     },
     {
@@ -1784,6 +2232,14 @@
         "popular":0
     },
     {
+        "repo":"incubator-concerted",
+        "stars":11,
+        "forks":5,
+        "pull_requests":6,
+        "pScore":52,
+        "popular":0
+    },
+    {
         "repo":"photark",
         "stars":10,
         "forks":5,
@@ -1792,11 +2248,11 @@
         "popular":0
     },
     {
-        "repo":"click",
-        "stars":14,
-        "forks":11,
-        "pull_requests":0,
-        "pScore":25,
+        "repo":"https:\/\/github.com\/moparisthebest\/beehive",
+        "stars":1,
+        "forks":1,
+        "pull_requests":5,
+        "pScore":27,
         "popular":0
     },
     {
@@ -1808,11 +2264,51 @@
         "popular":0
     },
     {
+        "repo":"click",
+        "stars":14,
+        "forks":11,
+        "pull_requests":0,
+        "pScore":25,
+        "popular":0
+    },
+    {
+        "repo":"incubator-corinthia",
+        "stars":16,
+        "forks":5,
+        "pull_requests":0,
+        "pScore":21,
+        "popular":0
+    },
+    {
         "repo":"tashi",
         "stars":9,
         "forks":7,
         "pull_requests":2,
         "pScore":20,
+        "popular":0
+    },
+    {
+        "repo":"geronimo-yoko",
+        "stars":3,
+        "forks":13,
+        "pull_requests":2,
+        "pScore":20,
+        "popular":0
+    },
+    {
+        "repo":"incubator-hdt",
+        "stars":7,
+        "forks":7,
+        "pull_requests":1,
+        "pScore":15,
+        "popular":0
+    },
+    {
+        "repo":"devicemap-browsermap",
+        "stars":9,
+        "forks":5,
+        "pull_requests":0,
+        "pScore":14,
         "popular":0
     },
     {
@@ -1824,7 +2320,23 @@
         "popular":0
     },
     {
+        "repo":"incubator-retired-provisionr",
+        "stars":5,
+        "forks":7,
+        "pull_requests":0,
+        "pScore":12,
+        "popular":0
+    },
+    {
         "repo":"chemistry",
+        "stars":7,
+        "forks":5,
+        "pull_requests":0,
+        "pScore":12,
+        "popular":0
+    },
+    {
+        "repo":"tuscany-sca-cpp",
         "stars":7,
         "forks":5,
         "pull_requests":0,
@@ -1837,6 +2349,46 @@
         "forks":3,
         "pull_requests":2,
         "pScore":9,
+        "popular":0
+    },
+    {
+        "repo":"river-container",
+        "stars":4,
+        "forks":5,
+        "pull_requests":0,
+        "pScore":9,
+        "popular":0
+    },
+    {
+        "repo":"incubator-cmda",
+        "stars":1,
+        "forks":3,
+        "pull_requests":0,
+        "pScore":4,
+        "popular":0
+    },
+    {
+        "repo":"incubator-warble-website",
+        "stars":1,
+        "forks":2,
+        "pull_requests":1,
+        "pScore":4,
+        "popular":0
+    },
+    {
+        "repo":"incubator-retired-amaterasu-site",
+        "stars":0,
+        "forks":1,
+        "pull_requests":0,
+        "pScore":1,
+        "popular":0
+    },
+    {
+        "repo":"https:\/\/github.com\/avalonphp\/avalon",
+        "stars":0,
+        "forks":0,
+        "pull_requests":0,
+        "pScore":0,
         "popular":0
     }
 ]

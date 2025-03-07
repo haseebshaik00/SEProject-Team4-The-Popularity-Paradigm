@@ -1,1160 +1,1574 @@
-[
-    {
+{
+    "abdera": {
         "repo": "abdera",
         "stars": 18,
         "forks": 24,
         "pull_requests": 4
     },
-    {
+    "accumulo": {
         "repo": "accumulo",
         "stars": 1090,
         "forks": 455,
         "pull_requests": 30
     },
-    {
+    "ace": {
         "repo": "ace",
         "stars": 27,
         "forks": 23,
         "pull_requests": 16
     },
-    {
+    "activemq": {
         "repo": "activemq",
         "stars": 2343,
         "forks": 1452,
         "pull_requests": 30
     },
-    {
+    "airavata": {
         "repo": "airavata",
         "stars": 119,
         "forks": 126,
         "pull_requests": 30
     },
-    {
+    "airflow": {
         "repo": "airflow",
         "stars": 39070,
         "forks": 14769,
         "pull_requests": 30
     },
-    {
+    "allura": {
         "repo": "allura",
         "stars": 134,
         "forks": 35,
         "pull_requests": 8
     },
-    {
+    "ambari": {
         "repo": "ambari",
         "stars": 2182,
         "forks": 1696,
         "pull_requests": 30
     },
-    {
+    "oltu": {
         "repo": "oltu",
         "stars": 163,
         "forks": 120,
         "pull_requests": 17
     },
-    {
+    "any23": {
         "repo": "any23",
         "stars": 96,
         "forks": 55,
         "pull_requests": 30
     },
-    {
+    "apisix": {
         "repo": "apisix",
         "stars": 14852,
         "forks": 2556,
         "pull_requests": 30
     },
-    {
+    "aries": {
         "repo": "aries",
         "stars": 113,
         "forks": 158,
         "pull_requests": 30
     },
-    {
+    "asterixdb": {
         "repo": "asterixdb",
         "stars": 287,
         "forks": 142,
         "pull_requests": 30
     },
-    {
+    "atlas": {
         "repo": "atlas",
         "stars": 1901,
         "forks": 871,
         "pull_requests": 30
     },
-    {
+    "aurora": {
         "repo": "aurora",
         "stars": 634,
         "forks": 231,
         "pull_requests": 30
     },
-    {
+    "beam": {
         "repo": "beam",
         "stars": 8035,
         "forks": 4305,
         "pull_requests": 30
     },
-    {
+    "bval": {
         "repo": "bval",
         "stars": 44,
         "forks": 29,
         "pull_requests": 30
     },
-    {
+    "bigtop": {
         "repo": "bigtop",
         "stars": 630,
         "forks": 519,
         "pull_requests": 30
     },
-    {
+    "bloodhound": {
         "repo": "bloodhound",
         "stars": 147,
         "forks": 30,
         "pull_requests": 3
     },
-    {
+    "brooklyn": {
         "repo": "brooklyn",
         "stars": 139,
         "forks": 67,
         "pull_requests": 30
     },
-    {
+    "buildr": {
         "repo": "buildr",
         "stars": 140,
         "forks": 88,
         "pull_requests": 30
     },
-    {
+    "calcite": {
         "repo": "calcite",
         "stars": 4752,
         "forks": 2413,
         "pull_requests": 30
     },
-    {
+    "carbondata": {
         "repo": "carbondata",
         "stars": 1435,
         "forks": 703,
         "pull_requests": 30
     },
-    {
+    "cassandra": {
         "repo": "cassandra",
         "stars": 9070,
         "forks": 3671,
         "pull_requests": 30
     },
-    {
+    "cayenne": {
         "repo": "cayenne",
         "stars": 323,
         "forks": 135,
         "pull_requests": 30
     },
-    {
+    "celix": {
         "repo": "celix",
         "stars": 173,
         "forks": 90,
         "pull_requests": 30
     },
-    {
+    "chemistry": {
         "repo": "chemistry",
         "stars": 7,
         "forks": 5,
         "pull_requests": 0
     },
-    {
+    "chukwa": {
         "repo": "chukwa",
         "stars": 84,
         "forks": 40,
         "pull_requests": 10
     },
-    {
+    "clerezza": {
         "repo": "clerezza",
         "stars": 36,
         "forks": 26,
         "pull_requests": 22
     },
-    {
+    "click": {
         "repo": "click",
         "stars": 14,
         "forks": 11,
         "pull_requests": 0
     },
-    {
+    "cloudstack": {
         "repo": "cloudstack",
         "stars": 2254,
         "forks": 1140,
         "pull_requests": 30
     },
-    {
+    "cordova": {
         "repo": "cordova",
         "stars": 653,
         "forks": 69,
         "pull_requests": 30
     },
-    {
+    "couchdb": {
         "repo": "couchdb",
         "stars": 6416,
         "forks": 1044,
         "pull_requests": 30
     },
-    {
+    "crunch": {
         "repo": "crunch",
         "stars": 104,
         "forks": 80,
         "pull_requests": 30
     },
-    {
+    "ctakes": {
         "repo": "ctakes",
         "stars": 59,
         "forks": 13,
         "pull_requests": 17
     },
-    {
+    "curator": {
         "repo": "curator",
         "stars": 3131,
         "forks": 1245,
         "pull_requests": 30
     },
-    {
+    "cxf": {
         "repo": "cxf",
         "stars": 874,
         "forks": 1437,
         "pull_requests": 30
     },
-    {
+    "daffodil": {
         "repo": "daffodil",
         "stars": 92,
         "forks": 73,
         "pull_requests": 30
     },
-    {
+    "datafu": {
         "repo": "datafu",
         "stars": 120,
         "forks": 66,
         "pull_requests": 30
     },
-    {
+    "datasketches": {
         "repo": "datasketches",
         "stars": 94,
         "forks": 10,
         "pull_requests": 1
     },
-    {
+    "deltacloud": {
         "repo": "deltacloud",
         "stars": 72,
         "forks": 25,
         "pull_requests": 7
     },
-    {
+    "deltaspike": {
         "repo": "deltaspike",
         "stars": 151,
         "forks": 136,
         "pull_requests": 30
     },
-    {
+    "derby": {
         "repo": "derby",
         "stars": 352,
         "forks": 140,
         "pull_requests": 30
     },
-    {
+    "directmemory": {
         "repo": "directmemory",
         "stars": 53,
         "forks": 27,
         "pull_requests": 19
     },
-    {
+    "bookkeeper": {
         "repo": "bookkeeper",
         "stars": 1919,
         "forks": 913,
         "pull_requests": 30
     },
-    {
+    "dolphinscheduler": {
         "repo": "dolphinscheduler",
         "stars": 13306,
         "forks": 4723,
         "pull_requests": 30
     },
-    {
+    "drill": {
         "repo": "drill",
         "stars": 1960,
         "forks": 980,
         "pull_requests": 30
     },
-    {
+    "druid": {
         "repo": "druid",
         "stars": 13627,
         "forks": 3728,
         "pull_requests": 30
     },
-    {
+    "dubbo": {
         "repo": "dubbo",
         "stars": 40776,
         "forks": 26494,
         "pull_requests": 30
     },
-    {
+    "eagle": {
         "repo": "eagle",
         "stars": 409,
         "forks": 179,
         "pull_requests": 30
     },
-    {
+    "ant": {
         "repo": "ant",
         "stars": 431,
         "forks": 440,
         "pull_requests": 30
     },
-    {
+    "echarts": {
         "repo": "echarts",
         "stars": 62048,
         "forks": 19699,
         "pull_requests": 30
     },
-    {
+    "esme": {
         "repo": "esme",
         "stars": 17,
         "forks": 8,
         "pull_requests": 6
     },
-    {
+    "etch": {
         "repo": "etch",
         "stars": 17,
         "forks": 8,
         "pull_requests": 0
     },
-    {
+    "falcon": {
         "repo": "falcon",
         "stars": 103,
         "forks": 111,
         "pull_requests": 30
     },
-    {
+    "felix": {
         "repo": "felix",
         "stars": 286,
         "forks": 318,
         "pull_requests": 30
     },
-    {
+    "fineract": {
         "repo": "fineract",
         "stars": 1480,
         "forks": 1800,
         "pull_requests": 30
     },
-    {
+    "flink": {
         "repo": "flink",
         "stars": 24600,
         "forks": 13538,
         "pull_requests": 30
     },
-    {
+    "flume": {
         "repo": "flume",
         "stars": 2546,
         "forks": 1575,
         "pull_requests": 30
     },
-    {
+    "fluo": {
         "repo": "fluo",
         "stars": 188,
         "forks": 72,
         "pull_requests": 30
     },
-    {
+    "freemarker": {
         "repo": "freemarker",
         "stars": 1012,
         "forks": 269,
         "pull_requests": 30
     },
-    {
+    "ftpserver": {
         "repo": "ftpserver",
         "stars": 79,
         "forks": 54,
         "pull_requests": 10
     },
-    {
+    "geode": {
         "repo": "geode",
         "stars": 2301,
         "forks": 685,
         "pull_requests": 30
     },
-    {
+    "geronimo": {
         "repo": "geronimo",
         "stars": 37,
         "forks": 22,
         "pull_requests": 28
     },
-    {
+    "giraph": {
         "repo": "giraph",
         "stars": 618,
         "forks": 301,
         "pull_requests": 30
     },
-    {
+    "gobblin": {
         "repo": "gobblin",
         "stars": 2237,
         "forks": 750,
         "pull_requests": 30
     },
-    {
+    "gora": {
         "repo": "gora",
         "stars": 121,
         "forks": 129,
         "pull_requests": 30
     },
-    {
+    "griffin": {
         "repo": "griffin",
         "stars": 1151,
         "forks": 588,
         "pull_requests": 30
     },
-    {
+    "groovy": {
         "repo": "groovy",
         "stars": 5266,
         "forks": 1898,
         "pull_requests": 30
     },
-    {
+    "hama": {
         "repo": "hama",
         "stars": 131,
         "forks": 71,
         "pull_requests": 20
     },
-    {
+    "harmony": {
         "repo": "harmony",
         "stars": 86,
         "forks": 38,
         "pull_requests": 0
     },
-    {
+    "hawq": {
         "repo": "hawq",
         "stars": 694,
         "forks": 328,
         "pull_requests": 30
     },
-    {
+    "hcatalog": {
         "repo": "hcatalog",
         "stars": 60,
         "forks": 45,
         "pull_requests": 2
     },
-    {
+    "helix": {
         "repo": "helix",
         "stars": 476,
         "forks": 228,
         "pull_requests": 30
     },
-    {
+    "hudi": {
         "repo": "hudi",
         "stars": 5680,
         "forks": 2465,
         "pull_requests": 30
     },
-    {
+    "iceberg": {
         "repo": "iceberg",
         "stars": 6985,
         "forks": 2406,
         "pull_requests": 30
     },
-    {
+    "ignite": {
         "repo": "ignite",
         "stars": 4889,
         "forks": 1913,
         "pull_requests": 30
     },
-    {
+    "impala": {
         "repo": "impala",
         "stars": 1193,
         "forks": 519,
         "pull_requests": 30
     },
-    {
+    "iotdb": {
         "repo": "iotdb",
         "stars": 5704,
         "forks": 1042,
         "pull_requests": 30
     },
-    {
+    "isis": {
         "repo": "isis",
         "stars": 865,
         "forks": 305,
         "pull_requests": 30
     },
-    {
+    "jackrabbit": {
         "repo": "jackrabbit",
         "stars": 347,
         "forks": 220,
         "pull_requests": 30
     },
-    {
+    "jclouds": {
         "repo": "jclouds",
         "stars": 205,
         "forks": 143,
         "pull_requests": 30
     },
-    {
+    "jena": {
         "repo": "jena",
         "stars": 1150,
         "forks": 662,
         "pull_requests": 30
     },
-    {
+    "johnzon": {
         "repo": "johnzon",
         "stars": 53,
         "forks": 66,
         "pull_requests": 30
     },
-    {
+    "joshua": {
         "repo": "joshua",
         "stars": 106,
         "forks": 63,
         "pull_requests": 30
     },
-    {
+    "jspwiki": {
         "repo": "jspwiki",
         "stars": 107,
         "forks": 102,
         "pull_requests": 30
     },
-    {
+    "juddi": {
         "repo": "juddi",
         "stars": 18,
         "forks": 14,
         "pull_requests": 30
     },
-    {
+    "juneau": {
         "repo": "juneau",
         "stars": 82,
         "forks": 39,
         "pull_requests": 30
     },
-    {
+    "kafka": {
         "repo": "kafka",
         "stars": 29595,
         "forks": 14222,
         "pull_requests": 30
     },
-    {
+    "knox": {
         "repo": "knox",
         "stars": 195,
         "forks": 255,
         "pull_requests": 30
     },
-    {
+    "kudu": {
         "repo": "kudu",
         "stars": 1859,
         "forks": 653,
         "pull_requests": 30
     },
-    {
+    "kylin": {
         "repo": "kylin",
         "stars": 3683,
         "forks": 1531,
         "pull_requests": 30
     },
-    {
+    "lens": {
         "repo": "lens",
         "stars": 60,
         "forks": 94,
         "pull_requests": 30
     },
-    {
+    "lenya": {
         "repo": "lenya",
         "stars": 18,
         "forks": 7,
         "pull_requests": 10
     },
-    {
+    "libcloud": {
         "repo": "libcloud",
         "stars": 2047,
         "forks": 924,
         "pull_requests": 30
     },
-    {
+    "lucenenet": {
         "repo": "lucenenet",
         "stars": 2277,
         "forks": 643,
         "pull_requests": 30
     },
-    {
+    "lucy": {
         "repo": "lucy",
         "stars": 99,
         "forks": 24,
         "pull_requests": 30
     },
-    {
+    "madlib": {
         "repo": "madlib",
         "stars": 465,
         "forks": 148,
         "pull_requests": 30
     },
-    {
+    "manifoldcf": {
         "repo": "manifoldcf",
         "stars": 77,
         "forks": 64,
         "pull_requests": 30
     },
-    {
+    "marmotta": {
         "repo": "marmotta",
         "stars": 54,
         "forks": 51,
         "pull_requests": 30
     },
-    {
+    "mesos": {
         "repo": "mesos",
         "stars": 5294,
         "forks": 1675,
         "pull_requests": 30
     },
-    {
+    "metamodel": {
         "repo": "metamodel",
         "stars": 156,
         "forks": 148,
         "pull_requests": 30
     },
-    {
+    "metron": {
         "repo": "metron",
         "stars": 856,
         "forks": 508,
         "pull_requests": 30
     },
-    {
+    "mnemonic": {
         "repo": "mnemonic",
         "stars": 120,
         "forks": 63,
         "pull_requests": 30
     },
-    {
+    "mrunit": {
         "repo": "mrunit",
         "stars": 38,
         "forks": 24,
         "pull_requests": 1
     },
-    {
+    "myfaces": {
         "repo": "myfaces",
         "stars": 120,
         "forks": 71,
         "pull_requests": 30
     },
-    {
+    "netbeans": {
         "repo": "netbeans",
         "stars": 2762,
         "forks": 876,
         "pull_requests": 30
     },
-    {
+    "nifi": {
         "repo": "nifi",
         "stars": 5142,
         "forks": 2766,
         "pull_requests": 30
     },
-    {
+    "nutch": {
         "repo": "nutch",
         "stars": 2984,
         "forks": 1252,
         "pull_requests": 30
     },
-    {
+    "nuvem": {
         "repo": "nuvem",
         "stars": 2,
         "forks": 3,
         "pull_requests": 2
     },
-    {
+    "ode": {
         "repo": "ode",
         "stars": 44,
         "forks": 60,
         "pull_requests": 8
     },
-    {
+    "ofbiz": {
         "repo": "ofbiz",
         "stars": 787,
         "forks": 554,
         "pull_requests": 27
     },
-    {
+    "onami": {
         "repo": "onami",
         "stars": 11,
         "forks": 3,
         "pull_requests": 0
     },
-    {
+    "oodt": {
         "repo": "oodt",
         "stars": 63,
         "forks": 60,
         "pull_requests": 30
     },
-    {
+    "oozie": {
         "repo": "oozie",
         "stars": 722,
         "forks": 473,
         "pull_requests": 30
     },
-    {
+    "climate": {
         "repo": "climate",
         "stars": 140,
         "forks": 113,
         "pull_requests": 30
     },
-    {
+    "openejb": {
         "repo": "openejb",
         "stars": 12,
         "forks": 26,
         "pull_requests": 30
     },
-    {
+    "openjpa": {
         "repo": "openjpa",
         "stars": 138,
         "forks": 134,
         "pull_requests": 30
     },
-    {
+    "openmeetings": {
         "repo": "openmeetings",
         "stars": 647,
         "forks": 263,
         "pull_requests": 30
     },
-    {
+    "opennlp": {
         "repo": "opennlp",
         "stars": 1482,
         "forks": 461,
         "pull_requests": 30
     },
-    {
+    "openoffice": {
         "repo": "openoffice",
         "stars": 1005,
         "forks": 325,
         "pull_requests": 30
     },
-    {
+    "openwebbeans": {
         "repo": "openwebbeans",
         "stars": 68,
         "forks": 61,
         "pull_requests": 30
     },
-    {
+    "openwhisk": {
         "repo": "openwhisk",
         "stars": 6617,
         "forks": 1171,
         "pull_requests": 30
     },
-    {
+    "pdfbox": {
         "repo": "pdfbox",
         "stars": 2766,
         "forks": 885,
         "pull_requests": 30
     },
-    {
+    "phoenix": {
         "repo": "phoenix",
         "stars": 1035,
         "forks": 1007,
         "pull_requests": 30
     },
-    {
+    "pig": {
         "repo": "pig",
         "stars": 687,
         "forks": 449,
         "pull_requests": 30
     },
-    {
+    "pinot": {
         "repo": "pinot",
         "stars": 5657,
         "forks": 1337,
         "pull_requests": 30
     },
-    {
+    "pivot": {
         "repo": "pivot",
         "stars": 42,
         "forks": 24,
         "pull_requests": 0
     },
-    {
+    "plc4x": {
         "repo": "plc4x",
         "stars": 1376,
         "forks": 432,
         "pull_requests": 30
     },
-    {
+    "pluto": {
         "repo": "pluto",
         "stars": 4,
         "forks": 7,
         "pull_requests": 11
     },
-    {
+    "predictionio": {
         "repo": "predictionio",
         "stars": 12529,
         "forks": 1927,
         "pull_requests": 30
     },
-    {
+    "pulsar": {
         "repo": "pulsar",
         "stars": 14474,
         "forks": 3620,
         "pull_requests": 30
     },
-    {
+    "qpid": {
         "repo": "qpid",
         "stars": 128,
         "forks": 86,
         "pull_requests": 10
     },
-    {
+    "ranger": {
         "repo": "ranger",
         "stars": 934,
         "forks": 1002,
         "pull_requests": 30
     },
-    {
+    "ratis": {
         "repo": "ratis",
         "stars": 1336,
         "forks": 426,
         "pull_requests": 30
     },
-    {
+    "rave": {
         "repo": "rave",
         "stars": 15,
         "forks": 11,
         "pull_requests": 23
     },
-    {
+    "reef": {
         "repo": "reef",
         "stars": 94,
         "forks": 96,
         "pull_requests": 30
     },
-    {
+    "rocketmq": {
         "repo": "rocketmq",
         "stars": 21586,
         "forks": 11791,
         "pull_requests": 30
     },
-    {
+    "roller": {
         "repo": "roller",
         "stars": 124,
         "forks": 132,
         "pull_requests": 30
     },
-    {
+    "rya": {
         "repo": "rya",
         "stars": 109,
         "forks": 75,
         "pull_requests": 30
     },
-    {
+    "samza": {
         "repo": "samza",
         "stars": 821,
         "forks": 336,
         "pull_requests": 30
     },
-    {
+    "sanselan": {
         "repo": "sanselan",
         "stars": 35,
         "forks": 16,
         "pull_requests": 3
     },
-    {
+    "sentry": {
         "repo": "sentry",
         "stars": 120,
         "forks": 88,
         "pull_requests": 11
     },
-    {
+    "servicemix": {
         "repo": "servicemix",
         "stars": 160,
         "forks": 152,
         "pull_requests": 30
     },
-    {
+    "shardingsphere": {
         "repo": "shardingsphere",
         "stars": 20102,
         "forks": 6793,
         "pull_requests": 30
     },
-    {
+    "shindig": {
         "repo": "shindig",
         "stars": 66,
         "forks": 68,
         "pull_requests": 7
     },
-    {
+    "shiro": {
         "repo": "shiro",
         "stars": 4359,
         "forks": 2313,
         "pull_requests": 30
     },
-    {
+    "singa": {
         "repo": "singa",
         "stars": 3380,
         "forks": 1248,
         "pull_requests": 30
     },
-    {
+    "sis": {
         "repo": "sis",
         "stars": 100,
         "forks": 45,
         "pull_requests": 30
     },
-    {
+    "skywalking": {
         "repo": "skywalking",
         "stars": 24141,
         "forks": 6564,
         "pull_requests": 30
     },
-    {
+    "sling": {
         "repo": "sling",
         "stars": 219,
         "forks": 258,
         "pull_requests": 30
     },
-    {
+    "solr": {
         "repo": "solr",
         "stars": 1319,
         "forks": 699,
         "pull_requests": 30
     },
-    {
+    "spamassassin": {
         "repo": "spamassassin",
         "stars": 285,
         "forks": 77,
         "pull_requests": 2
     },
-    {
+    "spark": {
         "repo": "spark",
         "stars": 40684,
         "forks": 28535,
         "pull_requests": 30
     },
-    {
+    "sqoop": {
         "repo": "sqoop",
         "stars": 979,
         "forks": 586,
         "pull_requests": 30
     },
-    {
+    "stanbol": {
         "repo": "stanbol",
         "stars": 112,
         "forks": 74,
         "pull_requests": 30
     },
-    {
+    "stdcxx": {
         "repo": "stdcxx",
         "stars": 63,
         "forks": 25,
         "pull_requests": 0
     },
-    {
+    "storm": {
         "repo": "storm",
         "stars": 6613,
         "forks": 4077,
         "pull_requests": 30
     },
-    {
+    "stratos": {
         "repo": "stratos",
         "stars": 158,
         "forks": 115,
         "pull_requests": 30
     },
-    {
+    "streams": {
         "repo": "streams",
         "stars": 77,
         "forks": 45,
         "pull_requests": 30
     },
-    {
+    "subversion": {
         "repo": "subversion",
         "stars": 588,
         "forks": 179,
         "pull_requests": 18
     },
-    {
+    "superset": {
         "repo": "superset",
         "stars": 64846,
         "forks": 14624,
         "pull_requests": 30
     },
-    {
+    "synapse": {
         "repo": "synapse",
         "stars": 72,
         "forks": 57,
         "pull_requests": 30
     },
-    {
+    "syncope": {
         "repo": "syncope",
         "stars": 278,
         "forks": 186,
         "pull_requests": 30
     },
-    {
+    "systemml": {
         "repo": "systemml",
         "stars": 1041,
         "forks": 481,
         "pull_requests": 30
     },
-    {
+    "tajo": {
         "repo": "tajo",
         "stars": 134,
         "forks": 111,
         "pull_requests": 30
     },
-    {
+    "tez": {
         "repo": "tez",
         "stars": 490,
         "forks": 428,
         "pull_requests": 30
     },
-    {
+    "thrift": {
         "repo": "thrift",
         "stars": 10656,
         "forks": 4047,
         "pull_requests": 30
     },
-    {
+    "tika": {
         "repo": "tika",
         "stars": 2808,
         "forks": 803,
         "pull_requests": 30
     },
-    {
+    "tinkerpop": {
         "repo": "tinkerpop",
         "stars": 2016,
         "forks": 820,
         "pull_requests": 30
     },
-    {
-        "repo": "myfaces",
-        "stars": 120,
-        "forks": 71,
-        "pull_requests": 30
-    },
-    {
+    "trafficcontrol": {
         "repo": "trafficcontrol",
         "stars": 1121,
         "forks": 345,
         "pull_requests": 30
     },
-    {
+    "trafficserver": {
         "repo": "trafficserver",
         "stars": 1843,
         "forks": 820,
         "pull_requests": 30
     },
-    {
+    "trafodion": {
         "repo": "trafodion",
         "stars": 246,
         "forks": 151,
         "pull_requests": 30
     },
-    {
+    "tvm": {
         "repo": "tvm",
         "stars": 12077,
         "forks": 3524,
         "pull_requests": 30
     },
-    {
+    "twill": {
         "repo": "twill",
         "stars": 69,
         "forks": 70,
         "pull_requests": 30
     },
-    {
+    "unomi": {
         "repo": "unomi",
         "stars": 296,
         "forks": 132,
         "pull_requests": 30
     },
-    {
+    "usergrid": {
         "repo": "usergrid",
         "stars": 990,
         "forks": 424,
         "pull_requests": 30
     },
-    {
+    "vcl": {
         "repo": "vcl",
         "stars": 12,
         "forks": 19,
         "pull_requests": 11
     },
-    {
+    "vxquery": {
         "repo": "vxquery",
         "stars": 20,
         "forks": 29,
         "pull_requests": 30
     },
-    {
+    "struts": {
         "repo": "struts",
         "stars": 1312,
         "forks": 821,
         "pull_requests": 30
     },
-    {
+    "whirr": {
         "repo": "whirr",
         "stars": 93,
         "forks": 58,
         "pull_requests": 7
     },
-    {
+    "wicket": {
         "repo": "wicket",
         "stars": 751,
         "forks": 393,
         "pull_requests": 30
     },
-    {
+    "wink": {
         "repo": "wink",
         "stars": 20,
         "forks": 22,
         "pull_requests": 12
     },
-    {
+    "wookie": {
         "repo": "wookie",
         "stars": 6,
         "forks": 5,
         "pull_requests": 15
     },
-    {
+    "xmlbeans": {
         "repo": "xmlbeans",
         "stars": 54,
         "forks": 62,
         "pull_requests": 20
     },
-    {
+    "zeppelin": {
         "repo": "zeppelin",
         "stars": 6469,
         "forks": 2814,
         "pull_requests": 30
     },
-    {
+    "kalumet": {
         "repo": "kalumet",
         "stars": 7,
         "forks": 5,
         "pull_requests": 8
     },
-    {
+    "npanday": {
         "repo": "npanday",
         "stars": 14,
         "forks": 14,
         "pull_requests": 16
     },
-    {
+    "photark": {
         "repo": "photark",
         "stars": 10,
         "forks": 5,
         "pull_requests": 6
     },
-    {
+    "sirona": {
         "repo": "sirona",
         "stars": 110,
         "forks": 46,
         "pull_requests": 17
     },
-    {
+    "tashi": {
         "repo": "tashi",
         "stars": 9,
         "forks": 7,
         "pull_requests": 2
     },
-    {
+    "zipkin": {
         "repo": "zipkin",
         "stars": 17137,
         "forks": 3102,
         "pull_requests": 30
+    },
+    "apex-core": {
+        "repo": "apex-core",
+        "stars": 349,
+        "forks": 173,
+        "pull_requests": 30
+    },
+    "activemq-apollo": {
+        "repo": "activemq-apollo",
+        "stars": 153,
+        "forks": 70,
+        "pull_requests": 10
+    },
+    "incubator-batchee": {
+        "repo": "incubator-batchee",
+        "stars": 14,
+        "forks": 17,
+        "pull_requests": 20
+    },
+    "commons-rdf": {
+        "repo": "commons-rdf",
+        "stars": 47,
+        "forks": 42,
+        "pull_requests": 30
+    },
+    "devicemap-browsermap": {
+        "repo": "devicemap-browsermap",
+        "stars": 9,
+        "forks": 5,
+        "pull_requests": 0
+    },
+    "empire-db": {
+        "repo": "empire-db",
+        "stars": 83,
+        "forks": 23,
+        "pull_requests": 16
+    },
+    "flex-sdk": {
+        "repo": "flex-sdk",
+        "stars": 355,
+        "forks": 144,
+        "pull_requests": 30
+    },
+    "guacamole-client": {
+        "repo": "guacamole-client",
+        "stars": 1468,
+        "forks": 734,
+        "pull_requests": 30
+    },
+    "infrastructure-pypubsub": {
+        "repo": "infrastructure-pypubsub",
+        "stars": 4,
+        "forks": 3,
+        "pull_requests": 9
+    },
+    "ant-ivy": {
+        "repo": "ant-ivy",
+        "stars": 69,
+        "forks": 113,
+        "pull_requests": 30
+    },
+    "db-jdo": {
+        "repo": "db-jdo",
+        "stars": 31,
+        "forks": 17,
+        "pull_requests": 30
+    },
+    "logging-log4cxx": {
+        "repo": "logging-log4cxx",
+        "stars": 283,
+        "forks": 124,
+        "pull_requests": 30
+    },
+    "logging-log4net": {
+        "repo": "logging-log4net",
+        "stars": 876,
+        "forks": 334,
+        "pull_requests": 30
+    },
+    "logging-log4php": {
+        "repo": "logging-log4php",
+        "stars": 100,
+        "forks": 81,
+        "pull_requests": 22
+    },
+    "mynewt-core": {
+        "repo": "mynewt-core",
+        "stars": 854,
+        "forks": 370,
+        "pull_requests": 30
+    },
+    "commons-lang": {
+        "repo": "commons-lang",
+        "stars": 2779,
+        "forks": 1623,
+        "pull_requests": 30
+    },
+    "olingo-odata4": {
+        "repo": "olingo-odata4",
+        "stars": 169,
+        "forks": 190,
+        "pull_requests": 30
+    },
+    "incubator-omid": {
+        "repo": "incubator-omid",
+        "stars": 88,
+        "forks": 60,
+        "pull_requests": 30
+    },
+    "parquet-mr": {
+        "repo": "parquet-mr",
+        "stars": 2737,
+        "forks": 1448,
+        "pull_requests": 30
+    },
+    "creadur-rat": {
+        "repo": "creadur-rat",
+        "stars": 30,
+        "forks": 49,
+        "pull_requests": 30
+    },
+    "servicecomb-java-chassis": {
+        "repo": "servicecomb-java-chassis",
+        "stars": 1923,
+        "forks": 825,
+        "pull_requests": 30
+    },
+    "tapestry-5": {
+        "repo": "tapestry-5",
+        "stars": 122,
+        "forks": 95,
+        "pull_requests": 30
+    },
+    "incubator-tephra": {
+        "repo": "incubator-tephra",
+        "stars": 31,
+        "forks": 50,
+        "pull_requests": 30
+    },
+    "tuscany-sca-cpp": {
+        "repo": "tuscany-sca-cpp",
+        "stars": 7,
+        "forks": 5,
+        "pull_requests": 0
+    },
+    "uima-uimaj": {
+        "repo": "uima-uimaj",
+        "stars": 64,
+        "forks": 37,
+        "pull_requests": 30
+    },
+    "incubator-retired-amaterasu-site": {
+        "repo": "incubator-retired-amaterasu-site",
+        "stars": 0,
+        "forks": 1,
+        "pull_requests": 0
+    },
+    "incubator-ariatosca": {
+        "repo": "incubator-ariatosca",
+        "stars": 28,
+        "forks": 45,
+        "pull_requests": 30
+    },
+    "ws-axiom": {
+        "repo": "ws-axiom",
+        "stars": 12,
+        "forks": 23,
+        "pull_requests": 30
+    },
+    "incubator-blur": {
+        "repo": "incubator-blur",
+        "stars": 33,
+        "forks": 31,
+        "pull_requests": 6
+    },
+    "incubator-cmda": {
+        "repo": "incubator-cmda",
+        "stars": 1,
+        "forks": 3,
+        "pull_requests": 0
+    },
+    "openwhisk-composer": {
+        "repo": "openwhisk-composer",
+        "stars": 69,
+        "forks": 21,
+        "pull_requests": 30
+    },
+    "incubator-concerted": {
+        "repo": "incubator-concerted",
+        "stars": 11,
+        "forks": 5,
+        "pull_requests": 6
+    },
+    "incubator-corinthia": {
+        "repo": "incubator-corinthia",
+        "stars": 16,
+        "forks": 5,
+        "pull_requests": 0
+    },
+    "incubator-cotton": {
+        "repo": "incubator-cotton",
+        "stars": 91,
+        "forks": 22,
+        "pull_requests": 0
+    },
+    "incubator-edgent": {
+        "repo": "incubator-edgent",
+        "stars": 216,
+        "forks": 135,
+        "pull_requests": 30
+    },
+    "incubator-gearpump": {
+        "repo": "incubator-gearpump",
+        "stars": 296,
+        "forks": 91,
+        "pull_requests": 30
+    },
+    "incubator-gossip": {
+        "repo": "incubator-gossip",
+        "stars": 251,
+        "forks": 110,
+        "pull_requests": 30
+    },
+    "incubator-hdt": {
+        "repo": "incubator-hdt",
+        "stars": 7,
+        "forks": 7,
+        "pull_requests": 1
+    },
+    "incubator-horn": {
+        "repo": "incubator-horn",
+        "stars": 28,
+        "forks": 16,
+        "pull_requests": 30
+    },
+    "incubator-retired-htrace": {
+        "repo": "incubator-retired-htrace",
+        "stars": 106,
+        "forks": 82,
+        "pull_requests": 13
+    },
+    "incubator-iota": {
+        "repo": "incubator-iota",
+        "stars": 33,
+        "forks": 30,
+        "pull_requests": 30
+    },
+    "incubator-retired-mrql": {
+        "repo": "incubator-retired-mrql",
+        "stars": 17,
+        "forks": 15,
+        "pull_requests": 30
+    },
+    "incubator-myriad": {
+        "repo": "incubator-myriad",
+        "stars": 154,
+        "forks": 68,
+        "pull_requests": 30
+    },
+    "incubator-retired-openaz": {
+        "repo": "incubator-retired-openaz",
+        "stars": 17,
+        "forks": 25,
+        "pull_requests": 7
+    },
+    "incubator-retired-pirk": {
+        "repo": "incubator-retired-pirk",
+        "stars": 57,
+        "forks": 26,
+        "pull_requests": 30
+    },
+    "incubator-retired-provisionr": {
+        "repo": "incubator-retired-provisionr",
+        "stars": 5,
+        "forks": 7,
+        "pull_requests": 0
+    },
+    "incubator-retired-quickstep": {
+        "repo": "incubator-retired-quickstep",
+        "stars": 95,
+        "forks": 63,
+        "pull_requests": 30
+    },
+    "incubator-retired-ripple": {
+        "repo": "incubator-retired-ripple",
+        "stars": 171,
+        "forks": 53,
+        "pull_requests": 30
+    },
+    "incubator-s2graph": {
+        "repo": "incubator-s2graph",
+        "stars": 269,
+        "forks": 64,
+        "pull_requests": 30
+    },
+    "incubator-retired-s4": {
+        "repo": "incubator-retired-s4",
+        "stars": 42,
+        "forks": 17,
+        "pull_requests": 2
+    },
+    "incubator-samoa": {
+        "repo": "incubator-samoa",
+        "stars": 248,
+        "forks": 106,
+        "pull_requests": 30
+    },
+    "incubator-retired-slider": {
+        "repo": "incubator-retired-slider",
+        "stars": 78,
+        "forks": 72,
+        "pull_requests": 8
+    },
+    "incubator-retired-tamaya": {
+        "repo": "incubator-retired-tamaya",
+        "stars": 44,
+        "forks": 32,
+        "pull_requests": 30
+    },
+    "incubator-taverna-engine": {
+        "repo": "incubator-taverna-engine",
+        "stars": 16,
+        "forks": 9,
+        "pull_requests": 8
+    },
+    "incubator-warble-website": {
+        "repo": "incubator-warble-website",
+        "stars": 1,
+        "forks": 2,
+        "pull_requests": 1
+    },
+    "incubator-retired-wave": {
+        "repo": "incubator-retired-wave",
+        "stars": 217,
+        "forks": 97,
+        "pull_requests": 27
+    },
+    "incubator-weex": {
+        "repo": "incubator-weex",
+        "stars": 13719,
+        "forks": 1808,
+        "pull_requests": 30
+    },
+    "geronimo-yoko": {
+        "repo": "geronimo-yoko",
+        "stars": 3,
+        "forks": 13,
+        "pull_requests": 2
+    },
+    "zetacomponents": {
+        "repo": "zetacomponents",
+        "stars": 47,
+        "forks": 14,
+        "pull_requests": 4
+    },
+    "ws-wss4j": {
+        "repo": "ws-wss4j",
+        "stars": 36,
+        "forks": 41,
+        "pull_requests": 30
+    },
+    "httpd": {
+        "repo": "httpd",
+        "stars": 3654,
+        "forks": 1164,
+        "pull_requests": 30
+    },
+    "river-container": {
+        "repo": "river-container",
+        "stars": 4,
+        "forks": 5,
+        "pull_requests": 0
+    },
+    "lucene": {
+        "repo": "lucene",
+        "stars": 2875,
+        "forks": 1090,
+        "pull_requests": 30
+    },
+    "odftoolkit": {
+        "repo": "odftoolkit",
+        "stars": 36,
+        "forks": 24,
+        "pull_requests": 3
+    },
+    "https://github.com/mybatis/mybatis-3": {
+        "repo": "https://github.com/mybatis/mybatis-3",
+        "stars": 19976,
+        "forks": 12917,
+        "pull_requests": 30
+    },
+    "https://github.com/jax-ml/jax": {
+        "repo": "https://github.com/jax-ml/jax",
+        "stars": 31556,
+        "forks": 2923,
+        "pull_requests": 30
+    },
+    "https://github.com/avalonphp/avalon": {
+        "repo": "https://github.com/avalonphp/avalon",
+        "stars": 0,
+        "forks": 0,
+        "pull_requests": 0
+    },
+    "https://github.com/fff-rs/juice": {
+        "repo": "https://github.com/fff-rs/juice",
+        "stars": 1119,
+        "forks": 76,
+        "pull_requests": 30
+    },
+    "https://github.com/carllerche/kabuki": {
+        "repo": "https://github.com/carllerche/kabuki",
+        "stars": 73,
+        "forks": 3,
+        "pull_requests": 2
+    },
+    "https://github.com/moparisthebest/beehive": {
+        "repo": "https://github.com/moparisthebest/beehive",
+        "stars": 1,
+        "forks": 1,
+        "pull_requests": 5
     }
-]
+}
