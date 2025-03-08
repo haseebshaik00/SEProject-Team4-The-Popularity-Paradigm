@@ -1,0 +1,200 @@
+{
+    "Amoro": {
+        "stars": 930,
+        "forks": 316,
+        "pull_requests": 30,
+        "pScore": 2146
+    },
+    "Annotator": {
+        "stars": 231,
+        "forks": 41,
+        "pull_requests": 30,
+        "pScore": 1172
+    },
+    "Baremaps": {
+        "stars": 531,
+        "forks": 67,
+        "pull_requests": 30,
+        "pScore": 1498
+    },
+    "Cloudberry": {
+        "stars": 902,
+        "forks": 138,
+        "pull_requests": 30,
+        "pScore": 1940
+    },
+    "DevLake": {
+        "stars": 2668,
+        "forks": 556,
+        "pull_requests": 30,
+        "pScore": 4124
+    },
+    "Fury": {
+        "stars": 3227,
+        "forks": 265,
+        "pull_requests": 30,
+        "pScore": 4392
+    },
+    "Gluten": {
+        "stars": 1286,
+        "forks": 466,
+        "pull_requests": 30,
+        "pScore": 2652
+    },
+    "Grails": {
+        "stars": 2794,
+        "forks": 953,
+        "pull_requests": 30,
+        "pScore": 4647
+    },
+    "GraphAr": {
+        "stars": 233,
+        "forks": 45,
+        "pull_requests": 30,
+        "pScore": 1178
+    },
+    "Gravitino": {
+        "stars": 1371,
+        "forks": 415,
+        "pull_requests": 30,
+        "pScore": 2686
+    },
+    "HertzBeat": {
+        "stars": 6039,
+        "forks": 1065,
+        "pull_requests": 30,
+        "pScore": 8004
+    },
+    "HoraeDB": {
+        "stars": 2712,
+        "forks": 211,
+        "pull_requests": 30,
+        "pScore": 3823
+    },
+    "HugeGraph": {
+        "stars": 2707,
+        "forks": 527,
+        "pull_requests": 30,
+        "pScore": 4134
+    },
+    "Iggy": {
+        "stars": 2347,
+        "forks": 121,
+        "pull_requests": 30,
+        "pScore": 3368
+    },
+    "KIE": {
+        "stars": 12,
+        "forks": 1,
+        "pull_requests": 1,
+        "pScore": 14
+    },
+    "Livy": {
+        "stars": 904,
+        "forks": 606,
+        "pull_requests": 30,
+        "pScore": 2410
+    },
+    "Nemo": {
+        "stars": 112,
+        "forks": 64,
+        "pull_requests": 30,
+        "pScore": 1076
+    },
+    "NLPCraft": {
+        "stars": 79,
+        "forks": 25,
+        "pull_requests": 30,
+        "pScore": 1004
+    },
+    "OpenServerless": {
+        "stars": 535,
+        "forks": 15,
+        "pull_requests": 26,
+        "pScore": 1226
+    },
+    "Otava": {
+        "stars": 58,
+        "forks": 12,
+        "pull_requests": 26,
+        "pScore": 746
+    },
+    "OzHera": {
+        "stars": 91,
+        "forks": 35,
+        "pull_requests": 30,
+        "pScore": 1026
+    },
+    "Pegasus": {
+        "stars": 2002,
+        "forks": 311,
+        "pull_requests": 30,
+        "pScore": 3213
+    },
+    "Polaris": {
+        "stars": 1371,
+        "forks": 199,
+        "pull_requests": 30,
+        "pScore": 2470
+    },
+    "Pony Mail": {
+        "stars": 80,
+        "forks": 31,
+        "pull_requests": 30,
+        "pScore": 1011
+    },
+    "ResilientDB": {
+        "stars": 145,
+        "forks": 214,
+        "pull_requests": 30,
+        "pScore": 1259
+    },
+    "Seata": {
+        "stars": 25521,
+        "forks": 8811,
+        "pull_requests": 30,
+        "pScore": 35232
+    },
+    "StormCrawler": {
+        "stars": 901,
+        "forks": 262,
+        "pull_requests": 30,
+        "pScore": 2063
+    },
+    "Teaclave": {
+        "stars": 773,
+        "forks": 160,
+        "pull_requests": 30,
+        "pScore": 1833
+    },
+    "Toree": {
+        "stars": 741,
+        "forks": 224,
+        "pull_requests": 30,
+        "pScore": 1865
+    },
+    "Training": {
+        "stars": 31,
+        "forks": 38,
+        "pull_requests": 30,
+        "pScore": 969
+    },
+    "Uniffle": {
+        "stars": 402,
+        "forks": 154,
+        "pull_requests": 30,
+        "pScore": 1456
+    },
+    "Wayang": {
+        "stars": 217,
+        "forks": 91,
+        "pull_requests": 30,
+        "pScore": 1208
+    },
+    "XTable": {
+        "stars": 994,
+        "forks": 164,
+        "pull_requests": 30,
+        "pScore": 2058
+    }
+}
