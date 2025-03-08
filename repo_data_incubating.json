@@ -13,7 +13,7 @@
     },
     "doris": {
         "repo": "doris",
-        "stars": 13283,
+        "stars": 13284,
         "forks": 3409,
         "pull_requests": 30
     },
@@ -31,7 +31,7 @@
     },
     "hop": {
         "repo": "hop",
-        "stars": 1089,
+        "stars": 1090,
         "forks": 361,
         "pull_requests": 30
     },
@@ -95,129 +95,129 @@
         "forks": 193,
         "pull_requests": 30
     },
-    "incubator-annotator": {
-        "repo": "incubator-annotator",
+    "Annotator": {
+        "repo": "Annotator",
         "stars": 231,
         "forks": 41,
         "pull_requests": 30
     },
-    "incubator-bluemarlin": {
-        "repo": "incubator-bluemarlin",
+    "Bluemarlin": {
+        "repo": "Bluemarlin",
         "stars": 2,
         "forks": 7,
         "pull_requests": 30
     },
-    "incubator-crail": {
-        "repo": "incubator-crail",
+    "Crail": {
+        "repo": "Crail",
         "stars": 149,
         "forks": 46,
         "pull_requests": 30
     },
-    "incubator-datalab": {
-        "repo": "incubator-datalab",
+    "Datalab": {
+        "repo": "Datalab",
         "stars": 153,
         "forks": 57,
         "pull_requests": 30
     },
-    "incubator-heron": {
-        "repo": "incubator-heron",
+    "Heron": {
+        "repo": "Heron",
         "stars": 3631,
         "forks": 593,
         "pull_requests": 30
     },
-    "incubator-hivemall": {
-        "repo": "incubator-hivemall",
+    "Hivemall": {
+        "repo": "Hivemall",
         "stars": 311,
         "forks": 117,
         "pull_requests": 30
     },
-    "incubator-liminal": {
-        "repo": "incubator-liminal",
+    "Liminal": {
+        "repo": "Liminal",
         "stars": 144,
         "forks": 42,
         "pull_requests": 30
     },
-    "incubator-livy": {
-        "repo": "incubator-livy",
+    "Livy": {
+        "repo": "Livy",
         "stars": 904,
         "forks": 606,
         "pull_requests": 30
     },
-    "incubator-marvin": {
-        "repo": "incubator-marvin",
+    "Marvin": {
+        "repo": "Marvin",
         "stars": 101,
         "forks": 34,
         "pull_requests": 30
     },
-    "incubator-milagro": {
-        "repo": "incubator-milagro",
+    "Milagro": {
+        "repo": "Milagro",
         "stars": 42,
         "forks": 13,
         "pull_requests": 30
     },
-    "incubator-nemo": {
-        "repo": "incubator-nemo",
+    "Nemo": {
+        "repo": "Nemo",
         "stars": 112,
         "forks": 64,
         "pull_requests": 30
     },
-    "incubator-nlpcraft": {
-        "repo": "incubator-nlpcraft",
+    "NLPCraft": {
+        "repo": "NLPCraft",
         "stars": 79,
         "forks": 25,
         "pull_requests": 30
     },
-    "incubator-spot": {
-        "repo": "incubator-spot",
+    "Spot": {
+        "repo": "Spot",
         "stars": 350,
         "forks": 226,
         "pull_requests": 30
     },
-    "incubator-teaclave": {
-        "repo": "incubator-teaclave",
+    "Teaclave": {
+        "repo": "Teaclave",
         "stars": 773,
         "forks": 160,
         "pull_requests": 30
     },
-    "incubator-toree": {
-        "repo": "incubator-toree",
+    "Toree": {
+        "repo": "Toree",
         "stars": 741,
         "forks": 224,
         "pull_requests": 30
     },
-    "incubator-training": {
-        "repo": "incubator-training",
+    "Training": {
+        "repo": "Training",
         "stars": 31,
         "forks": 38,
         "pull_requests": 30
     },
-    "incubator-tuweni": {
-        "repo": "incubator-tuweni",
+    "Tuweni": {
+        "repo": "Tuweni",
         "stars": 173,
         "forks": 83,
         "pull_requests": 30
     },
-    "incubator-wayang": {
-        "repo": "incubator-wayang",
+    "Wayang": {
+        "repo": "Wayang",
         "stars": 217,
         "forks": 91,
         "pull_requests": 30
     },
-    "incubator-pagespeed-mod": {
-        "repo": "incubator-pagespeed-mod",
+    "Pagespeed": {
+        "repo": "Pagespeed",
         "stars": 695,
         "forks": 155,
         "pull_requests": 30
     },
-    "sdap-in-situ-data-services": {
-        "repo": "sdap-in-situ-data-services",
+    "SDAP": {
+        "repo": "SDAP",
         "stars": 4,
         "forks": 5,
         "pull_requests": 27
     },
-    "yunikorn-core": {
-        "repo": "yunikorn-core",
-        "stars": 894,
+    "Yunikorn": {
+        "repo": "Yunikorn",
+        "stars": 895,
         "forks": 243,
         "pull_requests": 30
     }

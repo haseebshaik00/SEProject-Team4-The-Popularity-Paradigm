@@ -31,7 +31,7 @@
     },
     "airflow": {
         "repo": "airflow",
-        "stars": 39070,
+        "stars": 39073,
         "forks": 14769,
         "pull_requests": 30
     },
@@ -61,7 +61,7 @@
     },
     "apisix": {
         "repo": "apisix",
-        "stars": 14852,
+        "stars": 14854,
         "forks": 2556,
         "pull_requests": 30
     },
@@ -91,7 +91,7 @@
     },
     "beam": {
         "repo": "beam",
-        "stars": 8035,
+        "stars": 8034,
         "forks": 4305,
         "pull_requests": 30
     },
@@ -140,7 +140,7 @@
     "cassandra": {
         "repo": "cassandra",
         "stars": 9070,
-        "forks": 3671,
+        "forks": 3670,
         "pull_requests": 30
     },
     "cayenne": {
@@ -271,7 +271,7 @@
     },
     "dolphinscheduler": {
         "repo": "dolphinscheduler",
-        "stars": 13306,
+        "stars": 13307,
         "forks": 4723,
         "pull_requests": 30
     },
@@ -337,14 +337,14 @@
     },
     "fineract": {
         "repo": "fineract",
-        "stars": 1480,
-        "forks": 1800,
+        "stars": 1483,
+        "forks": 1801,
         "pull_requests": 30
     },
     "flink": {
         "repo": "flink",
         "stars": 24600,
-        "forks": 13538,
+        "forks": 13539,
         "pull_requests": 30
     },
     "flume": {
@@ -409,7 +409,7 @@
     },
     "groovy": {
         "repo": "groovy",
-        "stars": 5266,
+        "stars": 5267,
         "forks": 1898,
         "pull_requests": 30
     },
@@ -452,7 +452,7 @@
     "iceberg": {
         "repo": "iceberg",
         "stars": 6985,
-        "forks": 2406,
+        "forks": 2409,
         "pull_requests": 30
     },
     "ignite": {
@@ -529,7 +529,7 @@
     },
     "kafka": {
         "repo": "kafka",
-        "stars": 29595,
+        "stars": 29598,
         "forks": 14222,
         "pull_requests": 30
     },
@@ -614,7 +614,7 @@
     "metron": {
         "repo": "metron",
         "stars": 856,
-        "forks": 508,
+        "forks": 509,
         "pull_requests": 30
     },
     "mnemonic": {
@@ -739,7 +739,7 @@
     },
     "pdfbox": {
         "repo": "pdfbox",
-        "stars": 2766,
+        "stars": 2767,
         "forks": 885,
         "pull_requests": 30
     },
@@ -787,7 +787,7 @@
     },
     "pulsar": {
         "repo": "pulsar",
-        "stars": 14474,
+        "stars": 14475,
         "forks": 3620,
         "pull_requests": 30
     },
@@ -895,7 +895,7 @@
     },
     "skywalking": {
         "repo": "skywalking",
-        "stars": 24141,
+        "stars": 24140,
         "forks": 6564,
         "pull_requests": 30
     },
@@ -919,7 +919,7 @@
     },
     "spark": {
         "repo": "spark",
-        "stars": 40684,
+        "stars": 40685,
         "forks": 28535,
         "pull_requests": 30
     },
@@ -967,7 +967,7 @@
     },
     "superset": {
         "repo": "superset",
-        "stars": 64846,
+        "stars": 64849,
         "forks": 14624,
         "pull_requests": 30
     },
@@ -1147,426 +1147,420 @@
     },
     "zipkin": {
         "repo": "zipkin",
-        "stars": 17137,
+        "stars": 17138,
         "forks": 3102,
         "pull_requests": 30
     },
-    "apex-core": {
-        "repo": "apex-core",
+    "Apex": {
+        "repo": "Apex",
         "stars": 349,
         "forks": 173,
         "pull_requests": 30
     },
-    "activemq-apollo": {
-        "repo": "activemq-apollo",
+    "Apollo": {
+        "repo": "Apollo",
         "stars": 153,
         "forks": 70,
         "pull_requests": 10
     },
-    "incubator-batchee": {
-        "repo": "incubator-batchee",
+    "Batchee": {
+        "repo": "Batchee",
         "stars": 14,
         "forks": 17,
         "pull_requests": 20
     },
-    "commons-rdf": {
-        "repo": "commons-rdf",
+    "Commonsrdf": {
+        "repo": "Commonsrdf",
         "stars": 47,
         "forks": 42,
         "pull_requests": 30
     },
-    "devicemap-browsermap": {
-        "repo": "devicemap-browsermap",
+    "Devicemap": {
+        "repo": "Devicemap",
         "stars": 9,
         "forks": 5,
         "pull_requests": 0
     },
-    "empire-db": {
-        "repo": "empire-db",
+    "Empire": {
+        "repo": "Empire",
         "stars": 83,
         "forks": 23,
         "pull_requests": 16
     },
-    "flex-sdk": {
-        "repo": "flex-sdk",
+    "Flex": {
+        "repo": "Flex",
         "stars": 355,
         "forks": 144,
         "pull_requests": 30
     },
-    "guacamole-client": {
-        "repo": "guacamole-client",
+    "Guacamole": {
+        "repo": "Guacamole",
         "stars": 1468,
         "forks": 734,
         "pull_requests": 30
     },
-    "infrastructure-pypubsub": {
-        "repo": "infrastructure-pypubsub",
+    "Pubscribe": {
+        "repo": "Pubscribe",
         "stars": 4,
         "forks": 3,
         "pull_requests": 9
     },
-    "ant-ivy": {
-        "repo": "ant-ivy",
+    "Ivy": {
+        "repo": "Ivy",
         "stars": 69,
         "forks": 113,
         "pull_requests": 30
     },
-    "db-jdo": {
-        "repo": "db-jdo",
+    "Jdo": {
+        "repo": "Jdo",
         "stars": 31,
         "forks": 17,
         "pull_requests": 30
     },
-    "logging-log4cxx": {
-        "repo": "logging-log4cxx",
+    "Log4cxx": {
+        "repo": "Log4cxx",
         "stars": 283,
         "forks": 124,
         "pull_requests": 30
     },
-    "logging-log4net": {
-        "repo": "logging-log4net",
+    "Log4net": {
+        "repo": "Log4net",
         "stars": 876,
         "forks": 334,
         "pull_requests": 30
     },
-    "logging-log4php": {
-        "repo": "logging-log4php",
+    "Log4php": {
+        "repo": "Log4php",
         "stars": 100,
         "forks": 81,
         "pull_requests": 22
     },
-    "mynewt-core": {
-        "repo": "mynewt-core",
+    "Mynewt": {
+        "repo": "Mynewt",
         "stars": 854,
         "forks": 370,
         "pull_requests": 30
     },
-    "commons-lang": {
-        "repo": "commons-lang",
+    "Commons": {
+        "repo": "Commons",
         "stars": 2779,
         "forks": 1623,
         "pull_requests": 30
     },
-    "olingo-odata4": {
-        "repo": "olingo-odata4",
+    "Olingo": {
+        "repo": "Olingo",
         "stars": 169,
         "forks": 190,
         "pull_requests": 30
     },
-    "incubator-omid": {
-        "repo": "incubator-omid",
+    "Omid": {
+        "repo": "Omid",
         "stars": 88,
         "forks": 60,
         "pull_requests": 30
     },
-    "parquet-mr": {
-        "repo": "parquet-mr",
+    "Parquet": {
+        "repo": "Parquet",
         "stars": 2737,
         "forks": 1448,
         "pull_requests": 30
     },
-    "creadur-rat": {
-        "repo": "creadur-rat",
+    "Rat": {
+        "repo": "Rat",
         "stars": 30,
         "forks": 49,
         "pull_requests": 30
     },
-    "servicecomb-java-chassis": {
-        "repo": "servicecomb-java-chassis",
+    "Servicecomb": {
+        "repo": "Servicecomb",
         "stars": 1923,
         "forks": 825,
         "pull_requests": 30
     },
-    "tapestry-5": {
-        "repo": "tapestry-5",
+    "Tapestry": {
+        "repo": "Tapestry",
         "stars": 122,
         "forks": 95,
         "pull_requests": 30
     },
-    "incubator-tephra": {
-        "repo": "incubator-tephra",
+    "Tephra": {
+        "repo": "Tephra",
         "stars": 31,
         "forks": 50,
         "pull_requests": 30
     },
-    "tuscany-sca-cpp": {
-        "repo": "tuscany-sca-cpp",
+    "Tuscany": {
+        "repo": "Tuscany",
         "stars": 7,
         "forks": 5,
         "pull_requests": 0
     },
-    "uima-uimaj": {
-        "repo": "uima-uimaj",
+    "Uima": {
+        "repo": "Uima",
         "stars": 64,
         "forks": 37,
         "pull_requests": 30
     },
-    "incubator-retired-amaterasu-site": {
-        "repo": "incubator-retired-amaterasu-site",
+    "Amaterasu": {
+        "repo": "Amaterasu",
         "stars": 0,
         "forks": 1,
         "pull_requests": 0
     },
-    "incubator-ariatosca": {
-        "repo": "incubator-ariatosca",
+    "Ariatosca": {
+        "repo": "Ariatosca",
         "stars": 28,
         "forks": 45,
         "pull_requests": 30
     },
-    "ws-axiom": {
-        "repo": "ws-axiom",
+    "Axion": {
+        "repo": "Axion",
         "stars": 12,
         "forks": 23,
         "pull_requests": 30
     },
-    "incubator-blur": {
-        "repo": "incubator-blur",
+    "Blur": {
+        "repo": "Blur",
         "stars": 33,
         "forks": 31,
         "pull_requests": 6
     },
-    "incubator-cmda": {
-        "repo": "incubator-cmda",
+    "Cmda": {
+        "repo": "Cmda",
         "stars": 1,
         "forks": 3,
         "pull_requests": 0
     },
-    "openwhisk-composer": {
-        "repo": "openwhisk-composer",
+    "Composer": {
+        "repo": "Composer",
         "stars": 69,
         "forks": 21,
         "pull_requests": 30
     },
-    "incubator-concerted": {
-        "repo": "incubator-concerted",
+    "Concerted": {
+        "repo": "Concerted",
         "stars": 11,
         "forks": 5,
         "pull_requests": 6
     },
-    "incubator-corinthia": {
-        "repo": "incubator-corinthia",
+    "Corinthia": {
+        "repo": "Corinthia",
         "stars": 16,
         "forks": 5,
         "pull_requests": 0
     },
-    "incubator-cotton": {
-        "repo": "incubator-cotton",
+    "Cotton": {
+        "repo": "Cotton",
         "stars": 91,
         "forks": 22,
         "pull_requests": 0
     },
-    "incubator-edgent": {
-        "repo": "incubator-edgent",
+    "Edgent": {
+        "repo": "Edgent",
         "stars": 216,
         "forks": 135,
         "pull_requests": 30
     },
-    "incubator-gearpump": {
-        "repo": "incubator-gearpump",
+    "Gearpump": {
+        "repo": "Gearpump",
         "stars": 296,
         "forks": 91,
         "pull_requests": 30
     },
-    "incubator-gossip": {
-        "repo": "incubator-gossip",
+    "Gossip": {
+        "repo": "Gossip",
         "stars": 251,
         "forks": 110,
         "pull_requests": 30
     },
-    "incubator-hdt": {
-        "repo": "incubator-hdt",
+    "Hdt": {
+        "repo": "Hdt",
         "stars": 7,
         "forks": 7,
         "pull_requests": 1
     },
-    "incubator-horn": {
-        "repo": "incubator-horn",
+    "Horn": {
+        "repo": "Horn",
         "stars": 28,
         "forks": 16,
         "pull_requests": 30
     },
-    "incubator-retired-htrace": {
-        "repo": "incubator-retired-htrace",
+    "Htrace": {
+        "repo": "Htrace",
         "stars": 106,
         "forks": 82,
         "pull_requests": 13
     },
-    "incubator-iota": {
-        "repo": "incubator-iota",
+    "Iota": {
+        "repo": "Iota",
         "stars": 33,
         "forks": 30,
         "pull_requests": 30
     },
-    "incubator-retired-mrql": {
-        "repo": "incubator-retired-mrql",
+    "Mrql": {
+        "repo": "Mrql",
         "stars": 17,
         "forks": 15,
         "pull_requests": 30
     },
-    "incubator-myriad": {
-        "repo": "incubator-myriad",
+    "Myriad": {
+        "repo": "Myriad",
         "stars": 154,
         "forks": 68,
         "pull_requests": 30
     },
-    "incubator-retired-openaz": {
-        "repo": "incubator-retired-openaz",
+    "Nmaven": {
+        "repo": "Nmaven",
+        "stars": 154,
+        "forks": 68,
+        "pull_requests": 30
+    },
+    "Openaz": {
+        "repo": "Openaz",
         "stars": 17,
         "forks": 25,
         "pull_requests": 7
     },
-    "incubator-retired-pirk": {
-        "repo": "incubator-retired-pirk",
+    "Pirk": {
+        "repo": "Pirk",
         "stars": 57,
         "forks": 26,
         "pull_requests": 30
     },
-    "incubator-retired-provisionr": {
-        "repo": "incubator-retired-provisionr",
+    "Provisionr": {
+        "repo": "Provisionr",
         "stars": 5,
         "forks": 7,
         "pull_requests": 0
     },
-    "incubator-retired-quickstep": {
-        "repo": "incubator-retired-quickstep",
+    "Quickstep": {
+        "repo": "Quickstep",
         "stars": 95,
         "forks": 63,
         "pull_requests": 30
     },
-    "incubator-retired-ripple": {
-        "repo": "incubator-retired-ripple",
+    "Ripple": {
+        "repo": "Ripple",
         "stars": 171,
         "forks": 53,
         "pull_requests": 30
     },
-    "incubator-s2graph": {
-        "repo": "incubator-s2graph",
+    "S2graph": {
+        "repo": "S2graph",
         "stars": 269,
         "forks": 64,
         "pull_requests": 30
     },
-    "incubator-retired-s4": {
-        "repo": "incubator-retired-s4",
+    "S4": {
+        "repo": "S4",
         "stars": 42,
         "forks": 17,
         "pull_requests": 2
     },
-    "incubator-samoa": {
-        "repo": "incubator-samoa",
+    "Samoa": {
+        "repo": "Samoa",
         "stars": 248,
         "forks": 106,
         "pull_requests": 30
     },
-    "incubator-retired-slider": {
-        "repo": "incubator-retired-slider",
+    "Slider": {
+        "repo": "Slider",
         "stars": 78,
         "forks": 72,
         "pull_requests": 8
     },
-    "incubator-retired-tamaya": {
-        "repo": "incubator-retired-tamaya",
+    "Tamaya": {
+        "repo": "Tamaya",
         "stars": 44,
         "forks": 32,
         "pull_requests": 30
     },
-    "incubator-taverna-engine": {
-        "repo": "incubator-taverna-engine",
+    "Taverna": {
+        "repo": "Taverna",
         "stars": 16,
         "forks": 9,
         "pull_requests": 8
     },
-    "incubator-warble-website": {
-        "repo": "incubator-warble-website",
+    "Warble": {
+        "repo": "Warble",
         "stars": 1,
         "forks": 2,
         "pull_requests": 1
     },
-    "incubator-retired-wave": {
-        "repo": "incubator-retired-wave",
+    "Wave": {
+        "repo": "Wave",
         "stars": 217,
         "forks": 97,
         "pull_requests": 27
     },
-    "incubator-weex": {
-        "repo": "incubator-weex",
+    "Weex": {
+        "repo": "Weex",
         "stars": 13719,
         "forks": 1808,
         "pull_requests": 30
     },
-    "geronimo-yoko": {
-        "repo": "geronimo-yoko",
+    "Yoko": {
+        "repo": "Yoko",
         "stars": 3,
         "forks": 13,
         "pull_requests": 2
     },
-    "zetacomponents": {
-        "repo": "zetacomponents",
+    "Zeta": {
+        "repo": "Zeta",
         "stars": 47,
         "forks": 14,
         "pull_requests": 4
     },
-    "ws-wss4j": {
-        "repo": "ws-wss4j",
+    "Wsrp4j": {
+        "repo": "Wsrp4j",
         "stars": 36,
         "forks": 41,
         "pull_requests": 30
     },
-    "httpd": {
-        "repo": "httpd",
+    "Httpd-cli": {
+        "repo": "Httpd-cli",
         "stars": 3654,
         "forks": 1164,
         "pull_requests": 30
     },
-    "river-container": {
-        "repo": "river-container",
-        "stars": 4,
-        "forks": 5,
-        "pull_requests": 0
-    },
-    "lucene": {
-        "repo": "lucene",
-        "stars": 2875,
-        "forks": 1090,
+    "Log4cxx2": {
+        "repo": "Log4cxx2",
+        "stars": 283,
+        "forks": 124,
         "pull_requests": 30
     },
-    "odftoolkit": {
-        "repo": "odftoolkit",
-        "stars": 36,
-        "forks": 24,
-        "pull_requests": 3
-    },
-    "https://github.com/mybatis/mybatis-3": {
-        "repo": "https://github.com/mybatis/mybatis-3",
+    "Ibatis": {
+        "repo": "Ibatis",
         "stars": 19976,
         "forks": 12917,
         "pull_requests": 30
     },
-    "https://github.com/jax-ml/jax": {
-        "repo": "https://github.com/jax-ml/jax",
-        "stars": 31556,
+    "Jaxme": {
+        "repo": "Jaxme",
+        "stars": 31557,
         "forks": 2923,
         "pull_requests": 30
     },
-    "https://github.com/avalonphp/avalon": {
-        "repo": "https://github.com/avalonphp/avalon",
+    "Avalon": {
+        "repo": "Avalon",
         "stars": 0,
         "forks": 0,
         "pull_requests": 0
     },
-    "https://github.com/fff-rs/juice": {
-        "repo": "https://github.com/fff-rs/juice",
+    "Juice": {
+        "repo": "Juice",
         "stars": 1119,
         "forks": 76,
         "pull_requests": 30
     },
-    "https://github.com/carllerche/kabuki": {
-        "repo": "https://github.com/carllerche/kabuki",
+    "Kabuki": {
+        "repo": "Kabuki",
         "stars": 73,
         "forks": 3,
         "pull_requests": 2
     },
-    "https://github.com/moparisthebest/beehive": {
-        "repo": "https://github.com/moparisthebest/beehive",
+    "Beehive": {
+        "repo": "Beehive",
         "stars": 1,
         "forks": 1,
         "pull_requests": 5
