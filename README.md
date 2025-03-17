@@ -10,7 +10,7 @@ Install all the required libraries
 pip install -r requirements.txt
 ```
 
-> Pre-process the data - 'popularityScore.ipynb'
+> Pre-process the data - `preprocessing.ipynb`
 
 - Scraped repository data:
   - Graduated and retired repositories:
@@ -31,4 +31,4 @@ pip install -r requirements.txt
 
 - `repo_data_incubating.json` contains successfully scraped incubating repositories
 
-- Merged both datasets, calculated **popularity score**, and stored the final dataset in `final-dataset.csv`
+- Merged both datasets, calculated **popularity score**, normalized it, found popularity and stored the final dataset in `final-dataset.csv`
