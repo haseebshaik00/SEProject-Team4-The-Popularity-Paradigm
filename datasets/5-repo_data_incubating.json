@@ -1,0 +1,224 @@
+{
+    "age": {
+        "repo": "age",
+        "stars": 3361,
+        "forks": 421,
+        "pull_requests": 30
+    },
+    "brpc": {
+        "repo": "brpc",
+        "stars": 16814,
+        "forks": 4013,
+        "pull_requests": 30
+    },
+    "doris": {
+        "repo": "doris",
+        "stars": 13284,
+        "forks": 3409,
+        "pull_requests": 30
+    },
+    "eventmesh": {
+        "repo": "eventmesh",
+        "stars": 1639,
+        "forks": 640,
+        "pull_requests": 30
+    },
+    "flagon": {
+        "repo": "flagon",
+        "stars": 25,
+        "forks": 15,
+        "pull_requests": 30
+    },
+    "hop": {
+        "repo": "hop",
+        "stars": 1090,
+        "forks": 361,
+        "pull_requests": 30
+    },
+    "inlong": {
+        "repo": "inlong",
+        "stars": 1419,
+        "forks": 532,
+        "pull_requests": 30
+    },
+    "kyuubi": {
+        "repo": "kyuubi",
+        "stars": 2153,
+        "forks": 938,
+        "pull_requests": 30
+    },
+    "linkis": {
+        "repo": "linkis",
+        "stars": 3343,
+        "forks": 1168,
+        "pull_requests": 30
+    },
+    "mxnet": {
+        "repo": "mxnet",
+        "stars": 20788,
+        "forks": 6770,
+        "pull_requests": 30
+    },
+    "nuttx": {
+        "repo": "nuttx",
+        "stars": 3121,
+        "forks": 1258,
+        "pull_requests": 30
+    },
+    "pegasus": {
+        "repo": "pegasus",
+        "stars": 2002,
+        "forks": 311,
+        "pull_requests": 30
+    },
+    "ponymail": {
+        "repo": "ponymail",
+        "stars": 80,
+        "forks": 31,
+        "pull_requests": 30
+    },
+    "sedona": {
+        "repo": "sedona",
+        "stars": 2009,
+        "forks": 697,
+        "pull_requests": 30
+    },
+    "shenyu": {
+        "repo": "shenyu",
+        "stars": 8544,
+        "forks": 2974,
+        "pull_requests": 30
+    },
+    "streampipes": {
+        "repo": "streampipes",
+        "stars": 629,
+        "forks": 193,
+        "pull_requests": 30
+    },
+    "Annotator": {
+        "repo": "Annotator",
+        "stars": 231,
+        "forks": 41,
+        "pull_requests": 30
+    },
+    "Bluemarlin": {
+        "repo": "Bluemarlin",
+        "stars": 2,
+        "forks": 7,
+        "pull_requests": 30
+    },
+    "Crail": {
+        "repo": "Crail",
+        "stars": 149,
+        "forks": 46,
+        "pull_requests": 30
+    },
+    "Datalab": {
+        "repo": "Datalab",
+        "stars": 153,
+        "forks": 57,
+        "pull_requests": 30
+    },
+    "Heron": {
+        "repo": "Heron",
+        "stars": 3630,
+        "forks": 593,
+        "pull_requests": 30
+    },
+    "Hivemall": {
+        "repo": "Hivemall",
+        "stars": 311,
+        "forks": 117,
+        "pull_requests": 30
+    },
+    "Liminal": {
+        "repo": "Liminal",
+        "stars": 144,
+        "forks": 42,
+        "pull_requests": 30
+    },
+    "Livy": {
+        "repo": "Livy",
+        "stars": 904,
+        "forks": 606,
+        "pull_requests": 30
+    },
+    "Marvin": {
+        "repo": "Marvin",
+        "stars": 101,
+        "forks": 34,
+        "pull_requests": 30
+    },
+    "Milagro": {
+        "repo": "Milagro",
+        "stars": 42,
+        "forks": 13,
+        "pull_requests": 30
+    },
+    "Nemo": {
+        "repo": "Nemo",
+        "stars": 112,
+        "forks": 64,
+        "pull_requests": 30
+    },
+    "NLPCraft": {
+        "repo": "NLPCraft",
+        "stars": 79,
+        "forks": 25,
+        "pull_requests": 30
+    },
+    "Spot": {
+        "repo": "Spot",
+        "stars": 350,
+        "forks": 227,
+        "pull_requests": 30
+    },
+    "Teaclave": {
+        "repo": "Teaclave",
+        "stars": 773,
+        "forks": 160,
+        "pull_requests": 30
+    },
+    "Toree": {
+        "repo": "Toree",
+        "stars": 741,
+        "forks": 224,
+        "pull_requests": 30
+    },
+    "Training": {
+        "repo": "Training",
+        "stars": 31,
+        "forks": 38,
+        "pull_requests": 30
+    },
+    "Tuweni": {
+        "repo": "Tuweni",
+        "stars": 173,
+        "forks": 83,
+        "pull_requests": 30
+    },
+    "Wayang": {
+        "repo": "Wayang",
+        "stars": 219,
+        "forks": 92,
+        "pull_requests": 30
+    },
+    "Pagespeed": {
+        "repo": "Pagespeed",
+        "stars": 694,
+        "forks": 155,
+        "pull_requests": 30
+    },
+    "SDAP": {
+        "repo": "SDAP",
+        "stars": 4,
+        "forks": 5,
+        "pull_requests": 27
+    },
+    "Yunikorn": {
+        "repo": "Yunikorn",
+        "stars": 900,
+        "forks": 242,
+        "pull_requests": 30
+    }
+}
