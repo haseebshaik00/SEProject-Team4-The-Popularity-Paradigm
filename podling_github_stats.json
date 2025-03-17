@@ -1,7 +1,7 @@
 {
     "Amoro": {
-        "stars": 930,
-        "forks": 316,
+        "stars": 931,
+        "forks": 315,
         "pull_requests": 30,
         "pScore": 2146
     },
@@ -13,9 +13,9 @@
     },
     "Baremaps": {
         "stars": 531,
-        "forks": 67,
+        "forks": 66,
         "pull_requests": 30,
-        "pScore": 1498
+        "pScore": 1497
     },
     "Cloudberry": {
         "stars": 902,
@@ -24,58 +24,58 @@
         "pScore": 1940
     },
     "DevLake": {
-        "stars": 2668,
-        "forks": 556,
+        "stars": 2671,
+        "forks": 557,
         "pull_requests": 30,
-        "pScore": 4124
+        "pScore": 4128
     },
     "Fury": {
-        "stars": 3227,
+        "stars": 3229,
         "forks": 265,
         "pull_requests": 30,
-        "pScore": 4392
+        "pScore": 4394
     },
     "Gluten": {
-        "stars": 1286,
+        "stars": 1288,
         "forks": 466,
         "pull_requests": 30,
-        "pScore": 2652
+        "pScore": 2654
     },
     "Grails": {
-        "stars": 2794,
+        "stars": 2795,
         "forks": 953,
         "pull_requests": 30,
-        "pScore": 4647
+        "pScore": 4648
     },
     "GraphAr": {
-        "stars": 233,
-        "forks": 45,
+        "stars": 234,
+        "forks": 46,
         "pull_requests": 30,
-        "pScore": 1178
+        "pScore": 1180
     },
     "Gravitino": {
-        "stars": 1371,
+        "stars": 1372,
         "forks": 415,
         "pull_requests": 30,
-        "pScore": 2686
+        "pScore": 2687
     },
     "HertzBeat": {
-        "stars": 6039,
-        "forks": 1065,
+        "stars": 6047,
+        "forks": 1064,
         "pull_requests": 30,
-        "pScore": 8004
+        "pScore": 8011
     },
     "HoraeDB": {
-        "stars": 2712,
-        "forks": 211,
+        "stars": 2713,
+        "forks": 212,
         "pull_requests": 30,
-        "pScore": 3823
+        "pScore": 3825
     },
     "HugeGraph": {
         "stars": 2707,
-        "forks": 527,
+        "forks": 528,
         "pull_requests": 30,
-        "pScore": 4134
+        "pScore": 4135
     },
     "Iggy": {
         "stars": 2347,
@@ -108,10 +108,10 @@
         "pScore": 1004
     },
     "OpenServerless": {
-        "stars": 535,
+        "stars": 536,
         "forks": 15,
         "pull_requests": 26,
-        "pScore": 1226
+        "pScore": 1227
     },
     "Otava": {
         "stars": 58,
@@ -132,16 +132,16 @@
         "pScore": 3213
     },
     "Polaris": {
-        "stars": 1371,
-        "forks": 199,
+        "stars": 1376,
+        "forks": 200,
         "pull_requests": 30,
-        "pScore": 2470
+        "pScore": 2476
     },
     "Pony Mail": {
-        "stars": 80,
+        "stars": 81,
         "forks": 31,
         "pull_requests": 30,
-        "pScore": 1011
+        "pScore": 1012
     },
     "ResilientDB": {
         "stars": 145,
@@ -150,10 +150,10 @@
         "pScore": 1259
     },
     "Seata": {
-        "stars": 25521,
+        "stars": 25529,
         "forks": 8811,
         "pull_requests": 30,
-        "pScore": 35232
+        "pScore": 35240
     },
     "StormCrawler": {
         "stars": 901,
@@ -179,22 +179,22 @@
         "pull_requests": 30,
         "pScore": 969
     },
+    "Wayang": {
+        "stars": 218,
+        "forks": 91,
+        "pull_requests": 30,
+        "pScore": 1209
+    },
+    "XTable": {
+        "stars": 996,
+        "forks": 165,
+        "pull_requests": 30,
+        "pScore": 2061
+    },
     "Uniffle": {
         "stars": 402,
         "forks": 154,
         "pull_requests": 30,
         "pScore": 1456
-    },
-    "Wayang": {
-        "stars": 217,
-        "forks": 91,
-        "pull_requests": 30,
-        "pScore": 1208
-    },
-    "XTable": {
-        "stars": 994,
-        "forks": 164,
-        "pull_requests": 30,
-        "pScore": 2058
     }
 }
