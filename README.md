@@ -17,21 +17,11 @@ Research on How Software Development Metrics Influence Project Fame
 - [RQ#3 Analysis](https://github.com/haseebshaik00/SEProject-Team4-The-Popularity-Paradigm/blob/main/%23RQ3_analysis.ipynb) 🔗
 - [Case Study](https://github.com/haseebshaik00/SEProject-Team4-The-Popularity-Paradigm/blob/main/case_study.ipynb) 🔗
 
----
-
 **The final report can be found here: [Final_Report.pdf](https://github.com/haseebshaik00/SEProject-Team4-The-Popularity-Paradigm/blob/main/final_report.pdf)!**
 
 ---
 
-> Requirements [Project Setup]
-
-Install all the required libraries from requirements.txt
-
-```shell
-pip install -r requirements.txt
-```
----
-### Steps to Run the Project
+## Steps to Run the Project
 
 1. Clone the repository
 ```shell
@@ -55,8 +45,12 @@ python3 #RQ3.ipynb
 python3 case_study.ipynb
 ```
 5. Analyse the results!
+   
 ---
-> Pre-processing for [RQ#1 and RQ#2] - `preprocessing.ipynb`
+
+## Dataset
+
+> Data Acquisition and pre-processing for [RQ#1 and RQ#2] - `preprocessing.ipynb`
 
 - Scraped repository data:
   - Graduated and retired repositories:
@@ -77,8 +71,16 @@ python3 case_study.ipynb
 
 - `repo_data_incubating.json` contains successfully scraped incubating repositories
 
-- Merged both datasets, calculated **popularity score**, normalized it, found popularity, and stored the final dataset in `final-popularity-dataset.csv`.
-- Then this dataset was merged with the ASFI dataset and the final data taken into consideration was stored in `final-dataset.csv`.
+- Merged both datasets, calculated **popularity score**, normalized it, found popularity, and stored the final dataset in `final-popularity-dataset.csv`
+- Then this dataset was merged with the ASFI dataset and the final data taken into consideration was stored in `final-dataset.csv`
+
+> Data Acquisition and pre-processing for [RQ#3] - `#RQ3_preprocessing.ipynb`
+
+- Adopt dataset of the Apache Incubator Clutch Website
+- Scrape the data and parse it using BeautifulSoap lib
+- Scrape stars, forks, and PRs of all the podlings retrieved
+- Merge them to the main dataset, calculate pScore and popularity using the same methodology above
+- Store the final dataset in `final-rq3-dataset.csv`
 
 ---
 
