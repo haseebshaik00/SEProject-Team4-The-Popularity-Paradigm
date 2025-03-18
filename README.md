@@ -2,6 +2,8 @@
 
 Research on How Software Development Metrics Influence Project Fame
 
+---
+
 ## Useful Links:
 
 - [Adopted RQ#1 and RQ#2 dataset](https://zenodo.org/records/14499305) 🔗
@@ -21,15 +23,40 @@ Research on How Software Development Metrics Influence Project Fame
 
 ---
 
-> Requirements
+> Requirements [Project Setup]
 
 Install all the required libraries from requirements.txt
 
 ```shell
 pip install -r requirements.txt
 ```
+---
+### Steps to Run the Project
 
-> Pre-process the data [RQ#1 and RQ#2] - `preprocessing.ipynb`
+1. Clone the repository
+```shell
+git clone https://github.com/haseebshaik00/SEProject-Team4-The-Popularity-Paradigm.git
+```
+2. Navigate to the project repository
+```shell
+cd SEProject-Team4-The-Popularity-Paradigm
+```
+3. Install required dependencies
+```shell
+pip install -r requirements.txt
+```
+4. Run the Analysis
+```shell
+python3 preprocessing.ipynb
+python3 #RQ3_preprocessing.ipynb
+python3 #RQ1.ipynb
+python3 #RQ2.ipynb
+python3 #RQ3.ipynb
+python3 case_study.ipynb
+```
+5. Analyse the results!
+---
+> Pre-processing for [RQ#1 and RQ#2] - `preprocessing.ipynb`
 
 - Scraped repository data:
   - Graduated and retired repositories:
