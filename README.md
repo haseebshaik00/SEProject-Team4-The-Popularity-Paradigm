@@ -31,4 +31,10 @@ pip install -r requirements.txt
 
 - `repo_data_incubating.json` contains successfully scraped incubating repositories
 
-- Merged both datasets, calculated **popularity score**, normalized it, found popularity and stored the final dataset in `final-dataset.csv`
+- Merged both datasets, calculated **popularity score**, normalized it, found popularity and stored the final dataset in `final-popularity-dataset.csv`.
+- Then this dataset was merged with the ASFI dataset and the final data taken into consideration was stored in `final-dataset.csv`.
+
+---
+
+The final report can be found here: [Final_Report.pdf](https://github.com/haseebshaik00/SEProject-Team4-The-Popularity-Paradigm/blob/main/final_report.pdf)!
+
