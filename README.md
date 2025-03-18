@@ -2,15 +2,34 @@
 
 Research on How Software Development Metrics Influence Project Fame
 
+## Useful Links:
+
+- [Adopted RQ#1 and RQ#2 dataset](https://zenodo.org/records/14499305) 🔗
+- [Adopted RQ#3 dataset](https://incubator.apache.org/clutch/) 🔗
+- [RQ#1 and RQ#2 Dataset](https://github.com/haseebshaik00/SEProject-Team4-The-Popularity-Paradigm/blob/main/datasets/final-dataset.csv) 🔗
+- [RQ#3 Dataset](https://github.com/haseebshaik00/SEProject-Team4-The-Popularity-Paradigm/blob/main/datasets/final-rq3-dataset.csv) 🔗
+- [Preprocessing (RQ#1 and RQ#2)](https://github.com/haseebshaik00/SEProject-Team4-The-Popularity-Paradigm/blob/main/preprocessing.ipynb) 🔗
+- [Preprocessing (RQ#3)](https://github.com/haseebshaik00/SEProject-Team4-The-Popularity-Paradigm/blob/main/%23RQ3_preprocessing.ipynb) 🔗
+- [RQ#1 Analysis](https://github.com/haseebshaik00/SEProject-Team4-The-Popularity-Paradigm/blob/main/%23RQ1.ipynb) 🔗
+- [RQ#2 Analysis](https://github.com/haseebshaik00/SEProject-Team4-The-Popularity-Paradigm/blob/main/%23RQ2.ipynb) 🔗
+- [RQ#3 Analysis](https://github.com/haseebshaik00/SEProject-Team4-The-Popularity-Paradigm/blob/main/%23RQ3_analysis.ipynb) 🔗
+- [Case Study](https://github.com/haseebshaik00/SEProject-Team4-The-Popularity-Paradigm/blob/main/case_study.ipynb) 🔗
+
+---
+
+**The final report can be found here: [Final_Report.pdf](https://github.com/haseebshaik00/SEProject-Team4-The-Popularity-Paradigm/blob/main/final_report.pdf)!**
+
+---
+
 > Requirements
 
-Install all the required libraries
+Install all the required libraries from requirements.txt
 
 ```shell
 pip install -r requirements.txt
 ```
 
-> Pre-process the data - `preprocessing.ipynb`
+> Pre-process the data [RQ#1 and RQ#2] - `preprocessing.ipynb`
 
 - Scraped repository data:
   - Graduated and retired repositories:
@@ -31,10 +50,5 @@ pip install -r requirements.txt
 
 - `repo_data_incubating.json` contains successfully scraped incubating repositories
 
-- Merged both datasets, calculated **popularity score**, normalized it, found popularity and stored the final dataset in `final-popularity-dataset.csv`.
+- Merged both datasets, calculated **popularity score**, normalized it, found popularity, and stored the final dataset in `final-popularity-dataset.csv`.
 - Then this dataset was merged with the ASFI dataset and the final data taken into consideration was stored in `final-dataset.csv`.
-
----
-
-The final report can be found here: [Final_Report.pdf](https://github.com/haseebshaik00/SEProject-Team4-The-Popularity-Paradigm/blob/main/final_report.pdf)!
-
